@@ -1,0 +1,1331 @@
+Peptide Chain List
+>Peptide-No.1; Start at 21
+ValLysGlySerLysArgThrSer
+End at 45
+
+>Peptide-No.2; Start at 97
+ValAsnArgProPro
+End at 112
+
+>Peptide-No.3; Start at 161
+ValThrHisIleLysIleAsnLeu
+End at 185
+
+>Peptide-No.4; Start at 217
+MetGlnSerGlnCysTyrMetProLysGlnAlaThrHisArg
+End at 259
+
+>Peptide-No.5; Start at 267
+Val
+End at 270
+
+>Peptide-No.6; Start at 314
+MetHisSerSerSerArgValGluThrPheCysSerSerGlyThrGlnArgLeuThrArg
+End at 374
+
+>Peptide-No.7; Start at 409
+ValValProSerThrTyrArgPheTyrGlyTyrPheThrThrSerGlyThrMetAsnPhePheSerValLysArgTyrThrGlyArgProThrAspLeuCysAspLeuTrpArgValGlnGluHisThrTrpThrAsnSerProSerAsnGluHisPhe
+End at 568
+
+>Peptide-No.8; Start at 626
+ValLeuLysArgProValArgIleThrIleGlnGluGlyAsnThrValAla
+End at 677
+
+>Peptide-No.9; Start at 683
+ValSerPheArgPheIleArgGlyArgValHisThrGlyThrThrAsnSerAspValGlySerGlyAspThrArgSerValValGluAsnGlyThrHisLeuProAlaLysThrProProArgIleSerValTyrThrGlyLeuArgArgIleLeuGlnLeuThrAlaThrThrValArgSerThrGlyTyrValHisThrAlaThrThrPheTrpValIleThrAspAla
+End at 914
+
+>Peptide-No.10; Start at 973
+ValHisAspTyrCysPheArgSerSerValIleSerCys
+End at 1012
+
+>Peptide-No.11; Start at 1076
+MetIleIleIleThrProGlyPheProThrThrThrPheValArgArgSerAspLysMetArgThrTyrValLeuLysLeuArgValGlyCysValValHisLeuThrAlaLysThrGluGlnGlyValCysPhe
+End at 1211
+
+>Peptide-No.12; Start at 1218
+MetTrpLysIleProPheLeuSerGluLeuLeuGlyTrpMet
+End at 1260
+
+>Peptide-No.13; Start at 1263
+MetValArgArgLys
+End at 1278
+
+>Peptide-No.14; Start at 1313
+MetSerLeuThrIleGlySerGlnThrAspThrTyrThrPro
+End at 1355
+
+>Peptide-No.15; Start at 1361
+MetSerIleThrThrAlaSerGly
+End at 1385
+
+>Peptide-No.16; Start at 1424
+MetAsnGlyGluThrIleProThrValAspLysLysIleAsnValCysLysSerThrSerGlnProIleAsnGlyLysThrCysAspIleThrIleThrThrLysIleGlnGluVal
+End at 1541
+
+>Peptide-No.17; Start at 1563
+MetArgMetLysProThrLeuLeuPro
+End at 1590
+
+>Peptide-No.18; Start at 1596
+MetLysHisGlySerArgPheArgGlnGlnSerSer
+End at 1632
+
+>Peptide-No.19; Start at 1649
+MetSerAspMetThrGluAsnLeuValProValSerLeuThrIleValGlnGluProCysLeuSerArgLysGlyIleGluThrProSerGlnAlaThrValAlaThrThrGlyAlaLeuArgGluThrLeuValLeuIleThrThrValLeuCysGlyArgArgValSerThrValValThrValGlnArgThrAsnLysSerThrAspThrAlaSerSerValThrAlaGly
+End at 1883
+
+>Peptide-No.20; Start at 1913
+MetSer
+End at 1919
+
+>Peptide-No.21; Start at 1937
+MetThrTrpAsnThrSerArgValThrGluSerThrGlnGluIleLeuSerThrLeuValTrpHisValProAsnValGluThrIleProMetArgLeuAsnAsnThrSerValAlaGlnHisValSerLysArgAsnThrValProLysThrThrGln
+End at 2096
+
+>Peptide-No.22; Start at 2110
+MetLysAsn
+End at 2119
+
+>Peptide-No.23; Start at 2144
+MetAspLysLysSerGlyGlyGluArgSerIleLeuThrAlaGluIleGlnMetLeuIleMetLysAspGlyLeuThrThrIleIleArgArgSerMetTyrLysThrSerMetSerSerLeu
+End at 2267
+
+>Peptide-No.24; Start at 2328
+Met
+End at 2331
+
+>Peptide-No.25; Start at 2335
+ValPheProAsnThrThrSerTyrArgPheLysAspValAsnSerLeuPheThrIle
+End at 2392
+
+>Peptide-No.26; Start at 2423
+MetPheProGluAspProThrLysIleIleValThrThrIleAspValAlaValProGlnArgLeu
+End at 2489
+
+>Peptide-No.27; Start at 2508
+MetThrGlnTrp
+End at 2520
+
+>Peptide-No.28; Start at 2603
+MetThrValLysMetLeuThrIleThrMetThr
+End at 2636
+
+>Peptide-No.29; Start at 2775
+MetGlyArgThr
+End at 2787
+
+>Peptide-No.30; Start at 2803
+MetAlaGluArgAsnLeuAsnSerLeuHisValAspIlePhePheIleGlyAsnArgHis
+End at 2863
+
+>Peptide-No.31; Start at 2869
+MetTyrSerAsnAspAspIleLeuHisAsnAspSerSerCysCysLysTyrAspIleIleCysValMetAsnGluGluAspGlnAsnLeuGlyAsnAsnIleTyrSerGluThrValAsnSerSerAsnAspCysIleIleSerLeuPheArgVal
+End at 3025
+
+>Peptide-No.32; Start at 3040
+MetThrHisLeuThrAlaLysVal
+End at 3064
+
+>Peptide-No.33; Start at 3091
+ValValArg
+End at 3100
+
+>Peptide-No.34; Start at 3137
+MetIleLeuGluGluArgSerGlyAlaAlaHisThrAlaProHisLysThrSerSerProLysSerLysSerSerSerThr
+End at 3218
+
+>Peptide-No.35; Start at 3335
+MetThr
+End at 3341
+
+>Peptide-No.36; Start at 3358
+ValLeuValIlePheMetAspAsnPheTyrAsnAlaSerAsnSerIleAspCysGlyMetSerPheGluAspAsnThrAspTyrAspAsnPheArgValAlaPheThrThrLeuLysAlaAspLeuGluSerAspArgSerGlySerIlePhePheAsnValAspArgTyrSerAspTyrGlyLeuSerValSerHisAsnAspAsnLeuAspSerProMetArgPheSerHisTyrAsnTrpGluThrGly
+End at 3610
+
+>Peptide-No.37; Start at 3629
+MetSerHisAlaMetValSerLysSerThrAlaLeuSerSerSerValHisAspThrProGlnThrGlnSerIleThrThrIleValCysArgIleArgThrAlaThrIleAlaThrThrIleIleThrProLysPheSerProThrGlyPheSerGlnSerThrHisIleArgProIleSerArgGlnCysSerSerSerLysSerArgGluArgSerGlyLysArgSerIleLeuIleGlyArgThrAlaSerGlySerThrGlyAlaIleCysProThrLysArgGlyIleIleHisAspIleProIleLeuThrTyrArgArgThrSerValArgArgThrLysLeuSerVal
+End at 3986
+
+>Peptide-No.38; Start at 4085
+MetValSerThrValArgCysLeuLysLeuLysLysTyrThrThrGlnCysThrAlaLeuCysIleSerIleSerAsnThrLysMetThrLysThrHisValSerValGluThrIleValIleSerArgIleLeuValProThrThrAsnMetIleLeuGlnArgMetSerThrAlaThrArgTyrAsnAsnAspValGlnIleProValLysSerThrIleGluCysCysProIleIleGlnThrThrIleIle
+End at 4340
+
+>Peptide-No.39; Start at 4419
+MetHisThrGluAspArgLeuPheLeuValLeuArg
+End at 4455
+
+>Peptide-No.40; Start at 4506
+ValGlnAla
+End at 4515
+
+>Peptide-No.41; Start at 4527
+MetLeuArgThrValAsnGlnLeuProLeuAspAsnHisValLeuAsnAlaAsnLeuPheGluAspValThrArgLeuValTrpTyrThrMetPheLeuSerHisLysIleGlnHisPheLeuSerCysArgLysGlyLysLeuCysGluSerArgThrAlaArgIleAsnLeuSerAlaCysCysValValAsnCys
+End at 4725
+
+>Peptide-No.42; Start at 4787
+ValAsnIle
+End at 4796
+
+>Peptide-No.43; Start at 4841
+MetValArgThrThrLeuCysLeuThrSerValLysTyrArgSerSerValLysLeuThrThrThrLeuPheProArgIleSerGlnTyrThrGlyAlaThrArgMetLysGluCysVal
+End at 4961
+
+>Peptide-No.44; Start at 4969
+ValAsnSerAspValArgTyrSerProSerThrAsnThrHisTyrSerMetGlnGluSerLeuThrHisTyrTyr
+End at 5044
+
+>Peptide-No.45; Start at 5071
+ValAsn
+End at 5077
+
+>Peptide-No.46; Start at 5104
+MetAspGluMetSerTyrValAsnThrLeuTyrSerArgHis
+End at 5146
+
+>Peptide-No.47; Start at 5189
+Val
+End at 5192
+
+>Peptide-No.48; Start at 5221
+MetLysTyrGlyThrAsnValSerAspSerIleArgGlnAspValArgThrLysProLeuSerProArgTyrArgHisArgIlePheTyrAsnLysMetPheArgIlePheGluGlnGlnCysThrHisThrPheAspAsnPhe
+End at 5365
+
+>Peptide-No.49; Start at 5430
+ValTrpTrpGlyThrAsnAspGluSerProCysGlyLeuLeuPheAsnHisCysTrpArgCysArgGlyLeuLysHisArgLysLeuGlnLysValPro
+End at 5529
+
+>Peptide-No.50; Start at 5600
+ValAlaIleValLeuLysSerAspLeuHisValProLeuSerThr
+End at 5645
+
+>Peptide-No.51; Start at 5664
+MetSerSerLeuThrLeuGlnHisAlaIleArgAsnLeuProLeuLysSerCysLeuGlnLeuGlyLeuAspArgArgLysIleGlnPheLeuProPheMetLysCysSerLeuGlyGlyHisCysIleSerGlyArgCys
+End at 5805
+
+>Peptide-No.52; Start at 5823
+Met
+End at 5826
+
+>Peptide-No.53; Start at 5924
+ValIleLeuTyrValAsnGluGluGluArgIleSerSerAlaAlaThrGlnGlnProThrGlnThrValAsnThrGlyIleAsnIleLeuThrThrValHisIleSerValTrpLeuArgAsnProValValSer
+End at 6059
+
+>Peptide-No.54; Start at 6068
+MetIleArgIleIleGlnValIleSerIleLysArgSerLeuLysThrAlaTrpGlyValThr
+End at 6131
+
+>Peptide-No.55; Start at 6146
+ValTrpLysLeuThrProGlnValTrpSerThrTrpArgLeuThrSerThrProSer
+End at 6203
+
+>Peptide-No.56; Start at 6293
+MetArgAlaThrThrHisArgGlnIleSerSerArgCysMet
+End at 6335
+
+>Peptide-No.57; Start at 6382
+MetLysGluAspThrAsnLeuThrCysGlyAsnSerValHisTyrAsnCysAsnAsnValGluGlyLeuGluThrValHisPheThrSerMetIleAsnProGluValLys
+End at 6493
+
+>Peptide-No.58; Start at 6509
+MetGlyValLysValThrMetValThrThrSerIleAsnIlePheLeuThrSerArgArgArgSerThrMetIleSerVal
+End at 6590
+
+>Peptide-No.59; Start at 6634
+ValIleGlu
+End at 6643
+
+>Peptide-No.60; Start at 6665
+ValValSerProIleSerLeuThrLysLeuLeuSerThrAlaThrLeuSerIleThrThrPheCysHisAsnValThrThrThrThrLysPheIleProIleGlnArgGlyThrProAsnLeu
+End at 6788
+
+>Peptide-No.61; Start at 6796
+MetProThrMetAsnThrIleArgValAspThrIleThrThrGluAspThr
+End at 6847
+
+>Peptide-No.62; Start at 6921
+MetPheLeuGlnSerArgMetAspPro
+End at 6948
+
+>Peptide-No.63; Start at 7003
+MetAspValArgArgValTrpGlnAspValThrHis
+End at 7039
+
+>Peptide-No.64; Start at 7071
+ValMetGlyArgGluPheTyrGlnValCysValGluSerValIleGlnGluLeuTyrLeuThrAsnThrLysArgLysLeu
+End at 7152
+
+>Peptide-No.65; Start at 7164
+MetTyrGluIleTrpSerArgLysLeuThrAsnAsnAsnArgProCysAsnValIleLysLysArgVal
+End at 7233
+
+>Peptide-No.66; Start at 7260
+MetLeuIleArgHisArgSerArgLysThrAsnLysTrpVal
+End at 7302
+
+>Peptide-No.67; Start at 7321
+MetLeuThrTyr
+End at 7333
+
+>Peptide-No.68; Start at 7357
+MetArgSerLys
+End at 7369
+
+>Peptide-No.69; Start at 7397
+MetProTyrGluArgAspAspIleLeuLeuGly
+End at 7430
+
+>Peptide-No.70; Start at 7433
+MetIleSerThrSerLysMetAlaThrAspThrThrPheCysMetGlnAsnIleValSerPheThrAlaIleLys
+End at 7508
+
+>Peptide-No.71; Start at 7565
+MetGluValAspThrSerSerAlaPheThrGlyValMetAlaGlyCysValArgIleIleAlaMetProIle
+End at 7637
+
+>Peptide-No.72; Start at 7661
+MetSerIleSerLeuThrThrSerGlnIleAsnSerIleSerAlaSerTrp
+End at 7712
+
+>Peptide-No.73; Start at 7716
+MetLeuAlaLysGlyGluThrArgLysCysLeuAspLeuPheAsnPheLysPheLeuGlnThrPhe
+End at 7782
+
+>Peptide-No.74; Start at 7787
+MetThrIleTrpThrTyrValGluIleValAspAlaGlu
+End at 7826
+
+>Peptide-No.75; Start at 7922
+MetLysThrThrThrLysIleThrLeuAlaValIleLeuGlnThrLysGluThrIleIleLysAlaGluArgHisIleThrValCysAlaIleGlnProPhe
+End at 8024
+
+>Peptide-No.76; Start at 8033
+MetThrSerThrThrAlaPheArgSerAlaIleGluGlyIleThrGluLeuLeu
+End at 8087
+
+>Peptide-No.77; Start at 8101
+ValLeuArgGlyValHisThrSerAspTyrAsnSerGlyTyrPheAsnAsn
+End at 8152
+
+>Peptide-No.78; Start at 8182
+MetPheAsnAspTyrSerGlnCysTyr
+End at 8209
+
+>Peptide-No.79; Start at 8215
+MetGlyValTyrAsnLeuAspTyrHisThrAspGlyHis
+End at 8254
+
+>Peptide-No.80; Start at 8365
+ValAsnLeuLeuSerLysArgAsnValArgHisSerHis
+End at 8404
+
+>Peptide-No.81; Start at 8423
+ValGluPheArgCysAlaIleThrIleIleGlu
+End at 8456
+
+>Peptide-No.82; Start at 8468
+ValThrIleValLeuThrThrThrThrArgMetTyrGlnIleThrGlnArgThrGluMetGlnPheProAsnAlaArgThrMetValIleThrGlnArgHisThrThr
+End at 8576
+
+>Peptide-No.83; Start at 8593
+MetAspValLysAspThrMetAspAsnLeuLysTyrPheTrpArgArgThr
+End at 8644
+
+>Peptide-No.84; Start at 8712
+ValAlaArgLysCysValThrIleValLeuValGlnProProGlnIleLeuLeuArg
+End at 8769
+
+>Peptide-No.85; Start at 8830
+MetAspAspValThrGluProThrCys
+End at 8857
+
+>Peptide-No.86; Start at 8894
+MetSerValThrAsnAspValArgIleSerThrLeuTrpAspIleLeuLysGluThrIleThrAsnValArgArg
+End at 8969
+
+>Peptide-No.87; Start at 8978
+ValIleGlnIleProThrSerProGlyIleLeuTrpTyrAspGlyThrArgMetThrLysArgThrProLysThrHisValSerLeuLeuArgSerThrSerAsnAlaGluHisThrThrIleValGlnIleIle
+End at 9113
+
+>Peptide-No.88; Start at 9137
+Met
+End at 9140
+
+>Peptide-No.89; Start at 9149
+MetIleLeuArgGlnLeuSerHisAspGlyGlnAlaIleAsnThrHisThrCysSerProThrAsnIleMetValPheThrGluHisProValLysIleThrGlyGlyArgIleIleTrpThrThrAspAsnThrGluThrLysIleThrValThrValArgGlnSerSer
+End at 9320
+
+>Peptide-No.90; Start at 9338
+MetAsnLysGly
+End at 9350
+
+>Peptide-No.91; Start at 9356
+MetGlu
+End at 9362
+
+>Peptide-No.92; Start at 9444
+MetTrpValThrArgHis
+End at 9462
+
+>Peptide-No.93; Start at 9517
+MetValThrHisIleMetGluCysAspValThr
+End at 9550
+
+>Peptide-No.94; Start at 9560
+Met
+End at 9563
+
+>Peptide-No.95; Start at 9572
+MetIleThrArgThr
+End at 9587
+
+>Peptide-No.96; Start at 9609
+Met
+End at 9612
+
+>Peptide-No.97; Start at 9656
+MetSerThrLeuHisGluIleCysGluGluAspProLysSerAsnLysIleIleLeuCysThrSerSerLysMetThrThrIleArgIleAsnIleLysGlyProAlaThrGluIleIleGluThrIleIleValProValAsnThrSerArgIlePheGluLysLeuIleThrThrAspLysCys
+End at 9842
+
+>Peptide-No.98; Start at 9870
+MetLysArgProArgTyrLeuCysArgArgIleAlaLeuArgArgArgThrValGluArgPheArgAsnValCysMetSerLeu
+End at 9954
+
+>Peptide-No.99; Start at 9972
+MetValGlyGlyLeuThrSerTyrTrpArgProHisAsnValSerProAsnHisPheTyrSerValGlySerProLeuGlnLeuArgThrTyrGlnValGlnTrpThrProSerTyr
+End at 10089
+
+>Peptide-No.100; Start at 10115
+ValSerAspHisGlyCysCysAlaLeuHisGlyProThrGlyGlnGlnThrArgIleAsnThrThrGluGlnLeuLysIleLeuIleSerIleLysValThrArgPheCysValThrAlaArgSerPheGluArgThrThrThrSerThrValArgSerValArgLysLeuGlnLeuThrAlaThrThrIleGlyIleValArgSerAspValLysMetLeuSerLeuTrpThrAlaSer
+End at 10355
+
+>Peptide-No.101; Start at 10394
+Met
+End at 10397
+
+>Peptide-No.102; Start at 10400
+ValThrThrLeuArgGlyIleAspValLeuIleProLysGluArgHisThrLysAsnThrIleThrThrAsnValValProProIleThrLeuValLysAsnAsnValArgSerLeuPro
+End at 10520
+
+>Peptide-No.103; Start at 10532
+MetCysMetAlaLysSer
+End at 10550
+
+>Peptide-No.104; Start at 10559
+MetIleHisThrThrGluIleProIleCysSerArgGlySerSerGlnLeuSerValTyrAspValThrIleThrSerSerAsnArgAsnAlaSerLeu
+End at 10658
+
+>Peptide-No.105; Start at 10694
+ValIleThrThrLysLysIleThrTyrProArgThrValGly
+End at 10736
+
+>Peptide-No.106; Start at 10739
+ValThr
+End at 10745
+
+>Peptide-No.107; Start at 10754
+ValSer
+End at 10760
+
+>Peptide-No.108; Start at 10832
+MetThrGlnGlyProPheArgLeuGlyThrValMetIleGlnProSerThr
+End at 10883
+
+>Peptide-No.109; Start at 10886
+ValTrpThrProThrIleIleArgLeuIleProThrProIleArgLeuThrThrLeuPheSerMetTyrThrMetThrArgAsnGlnGlnAlaLeuGlyThrLysLeuAspThrLeuLeuGluCysSerValIle
+End at 11021
+
+>Peptide-No.110; Start at 11024
+MetLysHisLeuAspGluGlnThrLeuIleArgValCysGlnGlnGly
+End at 11072
+
+>Peptide-No.111; Start at 11115
+ValPheValTrpLysAsnCysGluLysAsnAsnGlyHisArg
+End at 11157
+
+>Peptide-No.112; Start at 11184
+MetLeuGly
+End at 11193
+
+>Peptide-No.113; Start at 11243
+ValIleThrAsnIleArgValMetCysMetThrIleThrThrAspValIleIleGln
+End at 11300
+
+>Peptide-No.114; Start at 11331
+MetLeuGlySerGluArgLeuLysArgAsnArgAsnThrSerProHisTyrThrAsnMet
+End at 11391
+
+>Peptide-No.115; Start at 11441
+ValMet
+End at 11447
+
+>Peptide-No.116; Start at 11450
+ValIleThrAsnMetLeuMetSerGluThrMetThrValGlyThrPheSerAsnValAsnThrValGluThrAsnGluTrpCysArgMet
+End at 11540
+
+>Peptide-No.117; Start at 11566
+MetLysIleIleCysValGlnIleGlnSerThrHisGluArg
+End at 11608
+
+>Peptide-No.118; Start at 11647
+ValAspThrHisArgTyr
+End at 11665
+
+>Peptide-No.119; Start at 11680
+ValPheSerSerLeuSerThrAspAspCys
+End at 11710
+
+>Peptide-No.120; Start at 11719
+ValAspLeu
+End at 11728
+
+>Peptide-No.121; Start at 11777
+MetTrpAsnIlePheProThrThrIleArgGlnIle
+End at 11813
+
+>Peptide-No.122; Start at 11816
+MetSerArgIleTyrVal
+End at 11834
+
+>Peptide-No.123; Start at 11866
+Met
+End at 11869
+
+>Peptide-No.124; Start at 11978
+ValLysLeuLeuLysLysThrIleThrSerArgThrThrGlnSerIleThrIleLysThrValArgIleAla
+End at 12050
+
+>Peptide-No.125; Start at 12059
+MetArgLysThrGlnLysCysGluSerMetGluThrThrGlnProSerThrArgLeuSerAspSerProSerIleProGluThrThrValGluTrpCysSerArgIleProLysArgLeuProThrIleIleSerIlePheAlaAspThrLeuProIleProSerProGlyIleGlnSerCysIleProThrSerProIleLeuLysIleHisIleArgSerCysThrThrSerValLeuSerPheLeuThrValThrIleArgLeuIleGlnGlnThrIleLeuIleLeuArgAlaValAlaThrArgIleThrIleValLysIleAlaIleLeuThrAsnIleTrpArgIleThrValArg
+End at 12422
+
+>Peptide-No.126; Start at 12464
+ValAlaAspLeuSerProSerValTyrArgGluArgIleAspAlaThrProLysHisProValMetSerIlePheValThrProValThrLeuThrIleGlnLysSerThrThrSerValValThrPheLysLeuTyrArg
+End at 12605
+
+>Peptide-No.127; Start at 12620
+ValIlePro
+End at 12629
+
+>Peptide-No.128; Start at 12632
+ValLysThrAlaIleGlnArgPheIleThrLeuValTrpLysSerLysPheLeuValProThrGlnThrSerSerSerArgLeuIleAspIleMetIleLysGluSerAsnAsnAlaTrpThrArgProSerIleLeuArgLeuProArgArgLysThrIleThrAspArgValTyrProArgThrThrSerIleProAla
+End at 12833
+
+>Peptide-No.129; Start at 12850
+MetLeuGluGluArgLeuArgThrAsnAlaLeuValPheLeuAspPheArgLeu
+End at 12904
+
+>Peptide-No.130; Start at 12957
+Val
+End at 12960
+
+>Peptide-No.131; Start at 12995
+ValAlaGlnThrGluIleLysLysProGlnGln
+End at 13028
+
+>Peptide-No.132; Start at 13040
+ValAlaThrArgSerPheSerAsnArgAlaLysAlaValThrProSerThrGly
+End at 13094
+
+>Peptide-No.133; Start at 13118
+MetArgIleLeuThrMetSerIleSerIle
+End at 13148
+
+>Peptide-No.134; Start at 13166
+MetSerThrSerSerLeuAsnThrThrSerLysSerHisArgAspAsnGlyThrArgIleSerCysArgThrThrGluThrThrAsnIleTyrIleProIleGlnThrGlyLeuGlyThrSerHisThrGlyThrGlyThrPro
+End at 13310
+
+>Peptide-No.135; Start at 13325
+MetGlyAspIleThrAspSerTyrAsnLeuThrTyrThrHisValAsnThrGluArgIleArgSerSer
+End at 13394
+
+>Peptide-No.136; Start at 13483
+ValThrThrAlaGluIlePro
+End at 13504
+
+>Peptide-No.137; Start at 13550
+MetMetPhe
+End at 13559
+
+>Peptide-No.138; Start at 13564
+MetAsnIleGlnThrSer
+End at 13582
+
+>Peptide-No.139; Start at 13633
+MetIleProLeuAsnThr
+End at 13651
+
+>Peptide-No.140; Start at 13661
+ValThrMetLeuAsnAsnAlaLeuThrLeuArgHisArgGlyValLeuLysLys
+End at 13715
+
+>Peptide-No.141; Start at 13740
+ValGluTyrAsnMetGlnSerGlnIleAspSerCysAspThrThr
+End at 13785
+
+>Peptide-No.142; Start at 13805
+ValLysLeuValLeuSerLeuHisGluPheArg
+End at 13838
+
+>Peptide-No.143; Start at 13867
+MetAspGluThrPheIle
+End at 13885
+
+>Peptide-No.144; Start at 13950
+MetArgPheAspArgIleCysAspAsnLeuLysHisTrpCysThrSerSerAspGlnIleSerHisThrSerValIleCysTrpSerTrpAsnTyrArgSerProTyr
+End at 14058
+
+>Peptide-No.145; Start at 14077
+ValSerTrpThrLysSerSerSerIleSerThrIleAspAspLysAsnLysLeuArgThrArgGluLeuLeuAlaAsnArgProAlaThrLeuCysIleProAsnThrLysIleIleTrp
+End at 14197
+
+>Peptide-No.146; Start at 14211
+ValAsnAspSerTyr
+End at 14226
+
+>Peptide-No.147; Start at 14230
+MetThrAsnIleProCys
+End at 14248
+
+>Peptide-No.148; Start at 14261
+MetLysPheIleThrLeuValCysIleValArgLeuThrGlnLeuThr
+End at 14309
+
+>Peptide-No.149; Start at 14328
+Met
+End at 14331
+
+>Peptide-No.150; Start at 14444
+ValMetPheLeuAsnProAsnGlnTyrLeuTyrLeuGlnSerGluValSerValSerGluArgGluPheLeuAsnTyrTyrIleArgArgLeuGlyArgTyrVal
+End at 14549
+
+>Peptide-No.151; Start at 14604
+ValAsnValAspGlnThrGluLysPheAspThrProAspArg
+End at 14646
+
+>Peptide-No.152; Start at 14710
+MetArgValCysLysLysGluThrSerSerThrIleThrThrIleMetSerAsnIleAsnAspLysAsnIleArgArgMetIleHisThrValValCysLeuGlnGlnAspValProSerThrPheValHisGluAlaLeuAspThrAlaThrAsnArgIleThrLysThrSerProThrIleIleLysSerValLeuThrThrGlyArgLysIleIleGlnThrValSerSerThrAspAsnThrLeuValGlnAsnGlyProArgSerThr
+End at 14983
+
+>Peptide-No.153; Start at 15016
+MetValLeuSerLeuLeuArgPheTyrThrIleIleThrIleLeuIleSerSerValThrThrSerAlaGlnVal
+End at 15091
+
+>Peptide-No.154; Start at 15097
+ValLeuLeuIleSerGlyHisGlySerLeuLeuArgIleGlnValProThrLeuSerThrSerLeuAsnAlaValThrMetMetPheGlnAspThrThrAspProLysValArgIleLeu
+End at 15217
+
+>Peptide-No.155; Start at 15221
+MetPheLeuGlnLeuLeuGlyValGluTyrProThrLeuMetGlyPheThrLeuSerArgTyrGlyLeuTyrThrSer
+End at 15299
+
+>Peptide-No.156; Start at 15309
+ValSerIleIleGluHisLeuTyrArgGluGlnHisAspValProCysLeuLys
+End at 15363
+
+>Peptide-No.157; Start at 15422
+MetMetGlnPheGlyProProTrpSerSerProLeuArgTrp
+End at 15464
+
+>Peptide-No.158; Start at 15522
+ValAsnThrHisAspTyrArgCysSerAsnAsnCysPhePheAsnPheCysThrSerAsn
+End at 15582
+
+>Peptide-No.159; Start at 15599
+MetSerSer
+End at 15608
+
+>Peptide-No.160; Start at 15638
+MetIleArgLysGluLeuPheValLysArgTyrTyrTyrAspArgLeuLeuProGlnGlnThrIleLeuSerLeuIleArgArgPheProMet
+End at 15731
+
+>Peptide-No.161; Start at 15741
+MetSer
+End at 15747
+
+>Peptide-No.162; Start at 15831
+ValTyrLeuArgGlnValSerTyrAlaLysTyrAsnSerTyrArgCysTyrGln
+End at 15885
+
+>Peptide-No.163; Start at 15961
+Met
+End at 15964
+
+>Peptide-No.164; Start at 16004
+MetGlyGluCysPheValLeuLeuTyrLeuMetValLeuHisLysThrGlnMetAsnValIleTyrLeuPheAspIlePheLeuGluCysProValTyrGluLeuSerIleArgGlnTyrAspThrProLeuLeuArgArgPheLysThrLeuLeuArgLysMetSerLeuGluIleSerSerGlyTrp
+End at 16193
+
+>Peptide-No.165; Start at 16230
+ValSerGluGlyMetArgHisProValArgArgHisLeuValLysArgArgHisLeuArgArgTyr
+End at 16296
+
+>Peptide-No.166; Start at 16314
+ValTyrSerThrLysThrAspLysGluGluCysLysHisTyrGlyAspGlnHisArgLysValCysAsnAspSerIle
+End at 16392
+
+>Peptide-No.167; Start at 16409
+MetLysThrHisLeuValSerGlyHisThrSerLysGlyGluThrArgLeuProGluHisLysProAsnMetPheLeuTyrThrCysProSerGlyArgTyrGlnLeuLysLeuSerAsnArgTrpThrLeuThr
+End at 16544
+
+>Peptide-No.168; Start at 16559
+MetTrpGluArgLeu
+End at 16574
+
+>Peptide-No.169; Start at 16587
+ValSerLeuLysAsnAspAspSerGluMetHisGlyAspPheSerAlaAspSerSerGluTyrAspAsnGlyGlySerPhePheAsnAsnHisSerArgLeuIleMetAsnThrProSerAspArgSerGlyLeuValValSer
+End at 16731
+
+>Peptide-No.170; Start at 16747
+MetThrAsnSerIleLeuValPheIleIleSerArgArgAlaThrHisValGluAlaArgValThrAsnIleThrThrThr
+End at 16828
+
+>Peptide-No.171; Start at 16832
+MetPheArgSerCysCysIlePheAsp
+End at 16859
+
+>Peptide-No.172; Start at 16878
+MetAsnGlyGlu
+End at 16890
+
+>Peptide-No.173; Start at 16900
+MetGluLeuProArgValLeuThrLeuSerSerLeuHisThrIleLeuMetThrGlnHisGlyLeuValMetProTrpThrSerGlnAlaPheSerThrThrValGluGlyPhe
+End at 17014
+
+>Peptide-No.174; Start at 17035
+ValThrSerProTrpTrpThrValThrValPheSerLysThrIleSerGlnSerLeuAsnAspGlyMetSerCysThrThrAsnMetSerTyrLysCysAlaSerThrThrThrLysHisThrPheSerLysIleTyrLysLeuValThrIleTyrLysGlyIleValArgThrPheProCysThrThrHisAspThrValGlnIleSerIleThrLeuPheLysSerTyrLysGlnIleMetIleIleThrArgTrpSerLeuLysThrAlaIleArgProProThrThrProIleIleHisValIleAsnThrArgLysLeuIleIleThrCysIleIleSerIleArgValThrAspThrSerSerArgSerCysGlnArgSerArgIleLeuLysGlnLeuIleSerVal
+End at 17449
+
+>Peptide-No.175; Start at 17476
+ValIle
+End at 17482
+
+>Peptide-No.176; Start at 17525
+MetSerThrGlyPheLeuTyrHisSer
+End at 17552
+
+>Peptide-No.177; Start at 17570
+MetLeuLeuPheAsnAsnArgPhePheLeuGluSerProValThrLysPheTyrGluIlePheProLeuHisCysValLeuArgSerArgArg
+End at 17663
+
+>Peptide-No.178; Start at 17673
+ValLeuSerValAsnThrSer
+End at 17694
+
+>Peptide-No.179; Start at 17701
+MetThrValArgProTyrLeuIleProSerGluIleLysArgAsnIleLysCysLeuThrThrProSerLysLeuArgProArgMetMetSerLeuThrThrLysGluCysProLysSerTyrGlyHisAlaIleGluAspSerLeuSerSerMetProCysThrIleValValIleVal
+End at 17881
+
+>Peptide-No.180; Start at 17896
+ValSerThrGlyPheSerIleArgAsnThrIleLeu
+End at 17932
+
+>Peptide-No.181; Start at 17940
+ValArgAsnSerGlyIleSerAsnAspLeuThrGluAsnAsp
+End at 17982
+
+>Peptide-No.182; Start at 18051
+ValAspGluTyrValValValCysAsnHisAsnTyrCysSerTyrSerAlaHisTyrSerLysArgThr
+End at 18120
+
+>Peptide-No.183; Start at 18129
+MetGlyValTyrArgVal
+End at 18147
+
+>Peptide-No.184; Start at 18217
+MetSerThrSerProThrPheArgSerSerPheAspLeuSerGluAlaThrThrProThrSerThrLysGlyIleThrTyrThrValValThrArgArgCys
+End at 18319
+
+>Peptide-No.185; Start at 18373
+ValThrHisProIleValGlnLeuProValThrThrGlyArgArgTrpSerThrCysGlnIleArgGlyAlaArgArgIleArgIleProProThrHisArgIleThrIleCysCysIleSerArgLeuGlnGlnSerValLysSerVal
+End at 18523
+
+>Peptide-No.186; Start at 18533
+MetThrCysLysGlnThrThrArgValProLysLeuAsnCysArgArgSerMetLysThrPheTyrProPheLeuValPheThrThrTyrThrLeuSerAlaArgArgArgMetArgSerGlyAspValArgIleArgThrThr
+End at 18677
+
+>Peptide-No.187; Start at 18704
+MetLeuGlyLysLysGlnLeuGlnValValThrProIleHisProLeuGluArg
+End at 18758
+
+>Peptide-No.188; Start at 18764
+ValLeuAlaIleThrArgGlnValValProArgValHisArgArgLeuLeuArgTyrTyr
+End at 18824
+
+>Peptide-No.189; Start at 18894
+ValTyrPheSerLeuThr
+End at 18912
+
+>Peptide-No.190; Start at 18945
+MetHisAspGluLysAsnGlyGlnValAsnCysPheArgTyrTyrAsnArg
+End at 18996
+
+>Peptide-No.191; Start at 19053
+ValSerGlyThrGlyLeuSerMetLeuSerLysArgTyrValSerCysThrGlyValLeuAsnAspTyrProArgArgIleLysPro
+End at 19140
+
+>Peptide-No.192; Start at 19149
+MetValLeu
+End at 19158
+
+>Peptide-No.193; Start at 19189
+ValCysThrArgLysThrGlnValLysArgSerAsnThrThrAlaIleLysHisThrIleValArgAlaLysSerMetTrpSerTyrThrThrLeuThr
+End at 19288
+
+>Peptide-No.194; Start at 19308
+MetValArgLys
+End at 19320
+
+>Peptide-No.195; Start at 19327
+MetMetTrpTyrThrSerArgThrIleThrIleIleLeuSerProIleThrAsnThrTrpGlyPhe
+End at 19393
+
+>Peptide-No.196; Start at 19408
+MetSerAsnIleLysSerProAlaThrAsnIleLeuArgThrMetSerHisValSerHisIleProSerTyrIleArgThrGluThr
+End at 19495
+
+>Peptide-No.197; Start at 19549
+MetLysMetPheSerSerSerLysProPheValThrLysIleThrThrIleCysSerGlyLysIleThrThrThrProThr
+End at 19630
+
+>Peptide-No.198; Start at 19663
+ValValLeuThrAlaIleThrValAsnIleGlnThrLeuIleLeuValLysArgMetIleIleSerLysThr
+End at 19735
+
+>Peptide-No.199; Start at 19755
+MetArgAla
+End at 19764
+
+>Peptide-No.200; Start at 19782
+MetCys
+End at 19788
+
+>Peptide-No.201; Start at 19791
+MetPheValCysLysArgCysSerSerArgLysPro
+End at 19827
+
+>Peptide-No.202; Start at 19852
+MetThrMetIleThrThrTyrIleHisValThrIleThrThrIleLysSerLysLeuIleTyrLysThrValCysAlaIleThrLys
+End at 19939
+
+>Peptide-No.203; Start at 19957
+MetArgValThrValGluIleLysThrIlePheLeuIleLeuTyrGlyAsnIleThrSerArgThrAsnThrAsnGluValThrThrIleValGlyThrIleThrThrThrIleCysTrpSerLeuGlnAspGluHisIleLeuSerValIleThrGlnIleThrArgMetThrHisIleAsnValSerLeuSerGluAsnIleThrGluGlyTrpGlyGlnThrValProLeuSerGluArg
+End at 20200
+
+>Peptide-No.204; Start at 20258
+ValHisGlnIleProLeuLysArgVal
+End at 20285
+
+>Peptide-No.205; Start at 20303
+ValAsnGlu
+End at 20312
+
+>Peptide-No.206; Start at 20321
+MetPhePheValValLeuProVal
+End at 20345
+
+>Peptide-No.207; Start at 20398
+MetThrLeuIleValSerProLysIleProProHisLysThrIleSerLysPheArgThrAlaGluThrIleLeuLysPheLeuSerSerGlyThrAlaSer
+End at 20500
+
+>Peptide-No.208; Start at 20582
+MetGlyAlaGluValArgArgArgLeuThrPheGlyProValArgTyrGlyArgGluLysPheGlnValLeuHisLeuGluLeuAlaThrLeuGluArgLeuMetPheValArg
+End at 20696
+
+>Peptide-No.209; Start at 20717
+ValTyrLeu
+End at 20726
+
+>Peptide-No.210; Start at 20761
+MetAsnVal
+End at 20770
+
+>Peptide-No.211; Start at 20799
+Met
+End at 20802
+
+>Peptide-No.212; Start at 20839
+Met
+End at 20842
+
+>Peptide-No.213; Start at 20850
+MetLeuSerProLysAspValTyrGlyAsnAsnIleTyrTyr
+End at 20892
+
+>Peptide-No.214; Start at 20949
+MetHisSerArgLeuPheThr
+End at 20970
+
+>Peptide-No.215; Start at 20998
+MetMetIleLeuThrLeuSerIleIleThrGlnPheProLys
+End at 21040
+
+>Peptide-No.216; Start at 21046
+MetAsnGlyHisIleGlyValIleIleIleArgThrArgThrThrGlnThrThrIleIleLeuLeuSerCysGluAsnLeuAlaThr
+End at 21133
+
+>Peptide-No.217; Start at 21178
+ValValThrPheThr
+End at 21193
+
+>Peptide-No.218; Start at 21227
+MetAsnPro
+End at 21236
+
+>Peptide-No.219; Start at 21269
+ValArgLeuIleTyrLysThrSerLeuArg
+End at 21299
+
+>Peptide-No.220; Start at 21316
+MetAsnGlu
+End at 21325
+
+>Peptide-No.221; Start at 21366
+ValValLysLysLeuIleSerSerGlnPheAsnCysLeuSerIleIleGluArgThrAlaSerHisSerMetAsnArgHisCysTyrTyrValSerHisLysAspAspTyrLysAsnAsnCysGlyCysLeuSerMetGlnLeuHisProGlyLeuArgGlnPheArgArgThr
+End at 21540
+
+>Peptide-No.222; Start at 21553
+MetLeuSerGluArgAsnTyrPheGluProAspProValAsnTyrLysAspSerAspCysHisAsnIleTrpGluPheProHisVal
+End at 21640
+
+>Peptide-No.223; Start at 21656
+ValAsnSerSerArgLysArgAspSerProSerGlyThrThrIleHisThrAspGluThrSerCysThrMetSerValLeuArgCysPheGlnGlnThrSerIleAspLysSerProAlaValCysGlnThrIleThrGlnThrAlaGlyIleSerSerSerThrValLysValThrValThrIleIleIleGly
+End at 21851
+
+>Peptide-No.224; Start at 21854
+MetValAlaMetIleCysPheLeuAsnGlyThrLysIleArgProLysLysSerThrIleLysGluSerThrIleLeuProGlyGluGluValSerMetArgSerArgLysArgAlaThrTyrThrValLys
+End at 21986
+
+>Peptide-No.225; Start at 22052
+MetLysLysThrValAsnSerValArgThrLeuSerAsnLysThrThrValAsnValSerIleThrValArgLeuGluLysIleProHisLysIleLysCysIleAspValGluIleHisValAsnIleValMetAlaSerThrLeuLysSerHisGlnThrValMetCysLeuThrSerSerThrSerGlyGluGlu
+End at 22250
+
+>Peptide-No.226; Start at 22269
+MetProProLeuTyrLysValLysArgTrpAsnGlyGlnIleLeu
+End at 22314
+
+>Peptide-No.227; Start at 22341
+ValSer
+End at 22347
+
+>Peptide-No.228; Start at 22389
+MetHisIlePheGluValGlyAsn
+End at 22413
+
+>Peptide-No.229; Start at 22447
+MetArgLeuAspIle
+End at 22462
+
+>Peptide-No.230; Start at 22483
+ValLeuArg
+End at 22492
+
+>Peptide-No.231; Start at 22606
+ValGluLysThrAspArgValGluGluSerLysTyr
+End at 22642
+
+>Peptide-No.232; Start at 22661
+MetValAsnValAsnIleArgMetVal
+End at 22688
+
+>Peptide-No.233; Start at 22696
+ValLysLysAspThrTyr
+End at 22714
+
+>Peptide-No.234; Start at 22718
+MetAsnIleSerLeu
+End at 22733
+
+>Peptide-No.235; Start at 22768
+ValThrLysThr
+End at 22780
+
+>Peptide-No.236; Start at 22791
+MetGlyGluSerTyrPheArgLeuGluSerGlnSerArgArgProGlyTyrArgValLysLeuIlePheValArgLysArgLeuGlyCysThrAsn
+End at 22887
+
+>Peptide-No.237; Start at 22913
+MetMetIleMetIleArgArgIleHisValAspIleIleValHisGluSerArgArgLysThrThrSerMetThrSerTrpSerGlnSerLeuAlaIleSerTyrGluTrpAspThr
+End at 23030
+
+>Peptide-No.238; Start at 23045
+ValThrHisProSerAlaThrAsnAsnIleLeuCys
+End at 23081
+
+>Peptide-No.239; Start at 23089
+ValAsnPheHisHisArgProAsnAsnAspHisArgValAspAsnGlyThrAspSerLeuMetSerThrArgAsnHisAsnValLysLeuTyrHisValCysGlyTyrHisLysArgGlySerAsnLeuAsnAspTyrCysValPheAsnGlyGluLeuIleArg
+End at 23254
+
+>Peptide-No.240; Start at 23309
+ValSerThrSerThrSerCysArgArgGluThrAsnThrThrHisGlyLeuLysSerThrAspAsnLysThrThrThrValAspAspAspLysArgThrAsnThrIleThrArgThrLysThrValAspThrIleSerLeuIleLeuGlyAlaMetArg
+End at 23468
+
+>Peptide-No.241; Start at 23490
+Val
+End at 23493
+
+>Peptide-No.242; Start at 23501
+MetValGlnSerTyrGluGlyLysMetArg
+End at 23531
+
+>Peptide-No.243; Start at 23555
+MetTyrThrArgGlySerLeuTrpThrThrAsnThrGlySer
+End at 23597
+
+>Peptide-No.244; Start at 23669
+ValTrpIleMetArgValTrpSerValThrArgGluThrArgSerThrLeuArgGluPro
+End at 23729
+
+>Peptide-No.245; Start at 23794
+MetAspAsp
+End at 23803
+
+>Peptide-No.246; Start at 23829
+Met
+End at 23832
+
+>Peptide-No.247; Start at 23855
+MetThrThrAsnIleCysHisAlaAsnValThrLysGlyLeuHisThrArg
+End at 23906
+
+>Peptide-No.248; Start at 23968
+MetArgSerTyr
+End at 23980
+
+>Peptide-No.249; Start at 23986
+MetHis
+End at 23992
+
+>Peptide-No.250; Start at 24034
+MetValGlnAsnLeuHis
+End at 24052
+
+>Peptide-No.251; Start at 24064
+ValLysIleLeuAspLysAspIleAspAspArgGlnHisHisValHisHisAspAsnSer
+End at 24124
+
+>Peptide-No.252; Start at 24143
+ValIleSerThrArgThrAsnIleArgSerAsnAlaThrAsnIleArgArgSerArgSer
+End at 24203
+
+>Peptide-No.253; Start at 24253
+MetGluGluAsnThrTyrAsnTyrThrPheGlyAlaCysGluValGluThrAsnArgArgIleValHisAsnArgProAspAspArgIleGlyGlyAsnAspAspLysValAsnValSerHisLysLysTyrProIleCysHisAsnArgAsnGluLeuSerLysLysValSerTrpPheSerAsnAsnGlyTyrSerAsn
+End at 24454
+
+>Peptide-No.254; Start at 24485
+ValMetLeuIleThrSerLysSerLeuProSerProThrThrLeuValValThrCysProArg
+End at 24548
+
+>Peptide-No.255; Start at 24575
+MetLysThrThrIleLysAlaGluIleThrSerValValCysCysArgThrAlaArgAlaCysProAlaGlyLeuSerVal
+End at 24656
+
+>Peptide-No.256; Start at 24679
+ValIleTyrGluAsnAsnValSerSerAsnLysGlnAspLeuValAspGluLysGlyGluLeuThrAspPheTyrPheSerTyrSerHisSerSerValLeuGlySerGlnAspLeuLysArgGlnPheArgValTyrIleThrGlyAsnAsnIleTyrGlyAspTyrArgLys
+End at 24853
+
+>Peptide-No.257; Start at 24873
+MetGlySerLeuVal
+End at 24888
+
+>Peptide-No.258; Start at 24932
+MetIleAsnIleSerGlyThrIleThrAspGluIleIleLeuIleIleValIleLeuThrThrThrHisGlnTyrMetThrGluGlnGluAspThrTrpThrArgValValGluArgIleMetIleHisThrThrTrpCysProLeuTyrGlyPheValLysMetIleGlyGlyArgArgArgArgAlaValLysValAlaLeuThrGluGlySerThrGlnProThrGlnLysValPheThrIleValValIleTrpIleLysThrLysArgLeuCysLeuIleMetMet
+End at 25223
+
+>Peptide-No.259; Start at 25235
+MetAspAlaLeuGlnGlnArgSerCysSerThrIleSerGlyIleThrGlnAsnValSerGlyIleSerArgThrValAsnMetAsnAsnValValTyrArgHisHisValAsnArgThrLysValThrThrArgThrThrGluSerArgTyrAlaGluGluVal
+End at 25400
+
+>Peptide-No.260; Start at 25409
+ValThrAsnThrValPheAspIleProPhe
+End at 25439
+
+>Peptide-No.261; Start at 25467
+MetLeuLeuMetLeuGluLeuGlyValPheGlnValGlnValIleAsnCysLeuIleValThrLeuLysPheLeuValGlyGluArgThrIleThrArgValArgGluLysThrSerAspValLysValLeuGluArgTyrMetAspSer
+End at 25617
+
+>Peptide-No.262; Start at 25675
+MetSerThrArgAsnMetPheLysSerLeuThrThrGly
+End at 25714
+
+>Peptide-No.263; Start at 25732
+MetSer
+End at 25738
+
+>Peptide-No.264; Start at 25762
+MetLysLeuSerThrThrArgMetAlaCysThrMetIleThrLeuArgLysThrAlaThrAsnGluSerIleAsnCysLeuArgTyrLeuMetHisArgAspGluLeuVal
+End at 25873
+
+>Peptide-No.265; Start at 25885
+MetGluLeuSerGlyIle
+End at 25903
+
+>Peptide-No.266; Start at 25929
+ValSerIleHisMetTrpLysSerThrValLys
+End at 25962
+
+>Peptide-No.267; Start at 25966
+ValGlyHisAspThrLeuThrValAspArgLysArgProIle
+End at 26008
+
+>Peptide-No.268; Start at 26028
+MetPheSerLysProValCysProAlaSerSerArgLeuAlaAsnGlnArgCysIleProThrSerLeuGlyThrAlaTyrLysGlyAspGlyGlyArgGluPheLys
+End at 26136
+
+>Peptide-No.269; Start at 26186
+MetGlnPheAlaSerLysArgGluAspAlaGlyLeuLeuGluSerGln
+End at 26234
+
+>Peptide-No.270; Start at 26247
+Val
+End at 26250
+
+>Peptide-No.271; Start at 26263
+Met
+End at 26266
+
+>Peptide-No.272; Start at 26292
+MetGlnAlaGln
+End at 26304
+
+>Peptide-No.273; Start at 26310
+Met
+End at 26313
+
+>Peptide-No.274; Start at 26321
+ValLeuThrGluPheGlyIleProProValGlyGlnArgLeuMetVal
+End at 26369
+
+>Peptide-No.275; Start at 26392
+ValThrThrSerLysSerIleSerLysLysTrpValThrArgGluLysArgValThrVal
+End at 26452
+
+>Peptide-No.276; Start at 26460
+MetTyrSerSerGlyThrThrArgPheGluAsnLysAsnTyrValValSerArg
+End at 26514
+
+>Peptide-No.277; Start at 26526
+MetTyrLeuAsnSerAspThrTyrLeuAsnCysAlaValArgAspAspAsnSer
+End at 26580
+
+>Peptide-No.278; Start at 26609
+MetValSerProGluGlyAsnValTyrSer
+End at 26639
+
+>Peptide-No.279; Start at 26655
+ValThrTyrTyrAsnGluArg
+End at 26676
+
+>Peptide-No.280; Start at 26686
+MetLeuArgTyrGluIleLeuAsnArgSerCysLeuGlnThrMetArgLysProAlaSerThrThrGluValCysGlnLysValSerProIleIleCysLeuThrSerLysAsnGlyValLysCysSerArgSer
+End at 26821
+
+>Peptide-No.281; Start at 26908
+MetThrGluIleThrLysValTyrValArgThrIleAlaAspThrSerThrLysSerThrValThrHisArgValArgGly
+End at 26989
+
+>Peptide-No.282; Start at 26994
+MetThrMetGlnPheTyrGluGlnGlnArgArgAsnSerLeuAspThrLysArg
+End at 27048
+
+>Peptide-No.283; Start at 27084
+MetIleSerTyrHisMet
+End at 27102
+
+>Peptide-No.284; Start at 27150
+MetLysProAsnIleTyrLeuLysGlnArgGlnSerThrThr
+End at 27192
+
+>Peptide-No.285; Start at 27197
+Met
+End at 27200
+
+>Peptide-No.286; Start at 27204
+ValThrAsnCysThrGlnGlu
+End at 27225
+
+>Peptide-No.287; Start at 27241
+MetSerLysLysSerThrIleProGlyThrValCysValValTrp
+End at 27286
+
+>Peptide-No.288; Start at 27341
+ValArgArg
+End at 27350
+
+>Peptide-No.289; Start at 27364
+ValAsnIleIleGlyLysIleIleLeuIleGlySerLysThrLeuThrGluGluGluPheAlaValThrLysValThrLysAlaArgThrLeuArgAlaLysSerArgArgSerValLeuAlaGlyLeuGluArgIleAlaAsnSerSerArgArgAspAspThrGlnGlyThrSerProIleArg
+End at 27550
+
+>Peptide-No.290; Start at 27588
+MetGlyAsnArgPheLeuLeuIleProThrSerIleIle
+End at 27627
+
+>Peptide-No.291; Start at 27640
+MetAlaSerTyrThrIleLeu
+End at 27661
+
+>Peptide-No.292; Start at 27685
+MetProMetIle
+End at 27697
+
+>Peptide-No.293; Start at 27727
+MetGlyGlnSerSerArgAla
+End at 27748
+
+>Peptide-No.294; Start at 27752
+MetAsnIleLeu
+End at 27764
+
+>Peptide-No.295; Start at 27810
+MetValAspCysSerProLysLeuLeuGluGluValLeuGlnIleIleLeuArg
+End at 27864
+
+>Peptide-No.296; Start at 27867
+ValThrProArgLeuIleThrValIleIleSerAspLeuGluThrTyrGlnGlyLeuGluArgGluLeuMetIleAla
+End at 27945
+
+>Peptide-No.297; Start at 27958
+MetGlyArgAlaSerTyr
+End at 27976
+
+>Peptide-No.298; Start at 28126
+MetLysHisValSer
+End at 28141
+
+>Peptide-No.299; Start at 28221
+MetLeuThrAlaCysArg
+End at 28239
+
+>Peptide-No.300; Start at 28254
+MetValThrLeuThrThrThrLeuValThrSerGlyValLeuProThrValArgLysAlaThrAsnThrAspAlaVal
+End at 28332
+
+>Peptide-No.301; Start at 28347
+ValAlaProValTrpValThrArgLeuThrLysPheLeuProLeuArgArgPheAspAlaLeuIleLysAlaAlaThrValAsnGlyIleTyrIleProSerIleAsnValLeuArgArgIleMetProProIleThr
+End at 28485
+
+>Peptide-No.302; Start at 28576
+ValGluHisAspLysGlyAsnGlyTyrCysTyrTyrIleValTyrValTrpThrGluLeuHisLeuLeuHis
+End at 28648
+
+>Peptide-No.303; Start at 28657
+ValLeuAspValValTyrCysAspArgGluProCysAspProAsnGlyLeuCysProPheArgGluAsnGlyLysValAspProSerHisMetGluAsnTyrGly
+End at 28762
+
+>Peptide-No.304; Start at 28766
+ValGlyThrArgPheThrThrHisAsnArgLeuCysProValPheLeuIleMetAlaLeuThrLeuIleArg
+End at 28838
+
+>Peptide-No.305; Start at 28854
+MetLysMetMet
+End at 28866
+
+>Peptide-No.306; Start at 28888
+ValArgValArgProAspAsnSerTyrArgSerLysProArgTyrPheTyrArgGlyAspTyrGluGluValGluAsnProAlaProTrpAspCysTyr
+End at 28987
+
+>Peptide-No.307; Start at 29000
+MetCys
+End at 29006
+
+>Peptide-No.308; Start at 29018
+MetIleArgArgIlePheGluGlyValThrProLeuThrSerValIleSer
+End at 29069
+
+>Peptide-No.309; Start at 29119
+ValPheGlnValLeuValLeu
+End at 29140
+
+>Peptide-No.310; Start at 29144
+MetGlyAlaValLysArgSerArg
+End at 29168
+
+>Peptide-No.311; Start at 29197
+MetLysTrpAsn
+End at 29209
+
+>Peptide-No.312; Start at 29224
+MetPheGlyAsnSerAspArgPheIleSerLeuAlaSerValPheIleSerAspSerPheTyrAspAspAspAspPheTyrSerThrArgCysSerArgGluGlyGlyPheGlnSerCysThrThrPheGluAsnGlnLysArgLeuValLeuTrpArgSerLeu
+End at 29389
+
+>Peptide-No.313; Start at 29420
+ValThrProGlyCysAsnArgGlyLeuThrThrArgThrArgMetSerValThrLysIleProIleGlnArg
+End at 29492
+
+>Peptide-No.314; Start at 29501
+MetGlySerLeuValThrThrSerThrValGlyThrHisGluGlySerHisValThrSerValIle
+End at 29567
+
+>Peptide-No.315; Start at 29589
+MetLeuPheThrAsnLeuGluGluLeuValLeu
+End at 29622
+
+>Peptide-No.316; Start at 29631
+MetPheTrpLysGlyPhePheLeuPhePheValPheArgGlyPheLeuLeuSerCysLeuValTyrArgLeuGlyGlyPheLeuValAlaHisValProSer
+End at 29733
+
+>Peptide-No.317; Start at 29744
+ValSerValGlyArgPheThrSerArgThrArgLeuLeuThrThrIleValThrAsnHisSerGluPheHisCysSerSerAlaValSerLysHisLysProLeuGly
+End at 29852
+
+>Peptide-No.318; Start at 29856
+ValValAlaAsnArg
+End at 29871
+
+>Peptide-No.319; Start at 29878
+ValSerTyrLeuSerThrThrLeuMetSerArgTyrSerIleAsnIleGly
+End at 29929
+
+>Peptide-No.320; Start at 29990
+ValGluThrHis
+End at 30002
+
+>Peptide-No.321; Start at 30036
+MetSerHisPheThrPheIlePheIleAspAsnLysLeuIle
+End at 30078
+
+
+
+Source +RNA:
+UCACUUAUCGAACCGAUAGAGUGAAGGGGAGCAAGAGAACGUCUUGAAACUAAAAUUGCUUGAAUUUAUUUUCGGGACAACAAAUCGCAUAACAACGUGAACAGACCACCCUAACACCGUAAUUAAACGGACGAGUAGAUCCGUCACCUGUAUACGAGUUGUGACCCAUAUUAAGAUUAACUUAUGAUAAAAAGUCAAUCUCGCAGCACAGAGAACAUGCAGAGCCAGUGUUAUAUGCCAAAGCAGGCCACGCACCGUUAAGCCCCGUGUAGUACAGAAAGCACCGACCACACUAGCGCGUUCCACGCGCGCCAUGCAUAGCUCGUCGCGAGUUGAGACUUUUUGUAGUUCUGGUACACAGAGAUUGACACGGUGAGACACCAAGUCCUUUGGACCAACUUUUUGAAAGUGGUACCAAGUACCUACCGCUUUUACGGAUACUUCACCACUUCCGGUACAAUGAAUUUUUUCUCGGUGAAGAGAUACACGGGUAGGCCGACCGACCUGUGUGAUCUGUGGAGGGUCCAGGAGCACACAUGGACCAACUCUCCGAGUAACGAACACUUUUAGGUAAGUACCAAUUGGUUAACCGAAUAUCGAGAUCACGUUUACCGUCGGACCAACCGUGUUGAAACGUCCCGUUCGGAUAACCAUACAAGAAGGGAAUACUGUAGCUUGAACAGUGUCCUUUCGUUUUAUAAGAGGACGCGUUCAUACCGGCACCACCAAUAGUGAUGUGGGGUCAGGUGAUACUCGCUCUGUUGUGGAGAACGGGACUCACCUACCUGCUAAAACUCCGCCUAGGAUUUCCGUUUAUACGGGUCUUAGACGAAUUCUUCAACUAACCGCCACUACAGUGAGGUCAACUGGUUAUGUACACACCGCAACUACCUUUUGGGUAAUCACGGAUGCGUAAAAAUUACCGGUUCCUACCUUAUUGGUUUGACCGACUACAACUUCGCCUGCAGCGUCGUGCACGACUACUGCUUCCGAAGUAGUGUAAUUUCUUGUUAGAUAUAUCUAACCAAACCGUACAACUCGCAUUUCUGCAAGGUAUAGGAUUCGUUAGAUAAAAAUGAUAAUUAUCACACCAGGUUUUCCUACCACAACUUUUGUGAGGAGGAGUGAUAAAAUGAGAACCUACGUUUUAAAAUUGCGAGUGGGGUGCGUUGUUCACCUCACCGCAAAGACUGAACAGGGAGUUUGUUUUUGAGGAAAUGUGGAAGAUACCAUUCCUCAGUGAACUCUUGGGUUGGAUGUAAAUGGUGAGGCGUAAGUAACUCACACCUUCAACACCAUUACUAAGGACCGAAUGUCCCUUACGAUAGGUUCCCAAACGGACACCUACACCCCGUAGUAUAUGUCGAUUACUACAGCUUCAGGUUAGUAGACCGUACUAAUUCGGUUUACGAGAAGAAACACGAUGAACGGGGAAACGAUUCCCACUGUCGACAAGAAGAUUAACGUUUGUAAGUCAACGAGUCAACCAAUCAAUGGAAAGACUUGCGACAUUACAAUAACGACUAAGAUUCAGGAAGUGUGAAUAGAAACCACCGCAUCGAAUGCGGAUGAAACCUACACUCCUUCCAUGAUACAUGAAACACGGAUCUCGAUUCAGACAACAGAGUUCCUAACCUCUGAGGUAGAAAUGUCCGACAUGACCGAGAACCUUGUUCCAGUGAGUUUAACGAUUGUACAAGAACCUUGUCUGAGUCGUAAGGGAAUUGAAACACCCUCUCAAGCAACAGUUGCUACAACAGGAGCGUUAAGAGAGACCUUGGUGUUGAUUACAACUGUUUUAUGCGGUCGAAGAGUUUCCACAGUGGUAACUGUUCAACGCACUAAUAAAUCGACUGAUACUGCAUCGUCAGUGACGGCCGGGUAAGUACCUAUUACGAUAAUUACAACCACCAUGUCCUAAUGUCAUACGGCGGUAAUGACGUGGAAUACAUCAAGAGUGACCGAAUCCACUCAGGAAAUUCUUUCAACGUUGGUAUGGCAUGUUCCAAACGUUGAGACAAUUCCUAUGAGACUGAAUAAUACGAGUGUCGCACAACAUGUCUCAAAAAGGAAUACUGUACCUAAGACCACACAGUAGGAAAUCACUUGAUGAAAAACUAACGCAACUAGAAAGUCAUCGAAGAUGGAUAAAAAAUCAGGCGGAGAACGUUCUAUUCUGACCGCUGAAAUACAGAUGUUAAUAAUGAAGGACGGUUUGACGACAAUCAUUCGAAGAUCUAUGUACAAAACUUCGAUGUCUUCGUUGUAAAUUGAAGAACAAUCUAAACCGUCCUAACAAGUCUUAGAAAGAAGCGUUACGGAUACACAUGUGAAGUGUUCCCAAACACCACCAGUUACCGUUUCAAAGAUGUGAACAGUUUGUUCACAAUCUGAACGAAUUAUUCCCAUACGUUGAAAACGUAUGUUUCCAGAGGACCCGACCAAGAUUAUAGUCACGACAAUAGAUGUCGCCGUCCCUCAGAGAUUAUAAGGGUAGCCCUUGGAUAAUGACACAGUGGUGAUUCCGAUUCAGGCAAGUUGUUCUAGAACUGCAAUAAAACGGACCACUCAAAAGGUUCUUCGUCAAUCCUGACGAGGUUGGAUGACUGUUAAGAUGUUGACAAUCACAAUGACAUAGGUCAUUGUACCAACUUUGACAACACCCAGUUGAACUCGUUUGAUUAUACGUAUCAGGACUACAAUAUCAUCCACUGAUACAGUAAUAAUCACUUUUUAACAAACACGCAUCAUUCCUUCUUCUGCCUAAGCGGAAGAUGGGACGAACGUGAUUACCAGUACGACAUGGCUGAGAGAAAUCUGAAUUCCCUCCACGUGGACAUUUUUUUCAUCGGAAACCGCCACUAGUUCAUGUACUCCAACGACGACAUUCUUCACAAUGACAGCUCAUGUUGUAAGUACGACAUAAUCUGUGUGAUGAACGAAGAAGAUCAGAAUCUUGGAAACAACAUCUAUUCAGAAACAGUUAACUCCUCAAACGACUGCAUCAUUUCCUUGUUCAGAGUCUGAACGAACAAUUUAAUGACGCACCUUACGGCUAAGGUCUAAAACUAAAUCUGCUAAAAUAACUGCGUGGUACGAUAACGAAAUUGCGACUCCCACUACGUAGAACCAGAAGAUGAUACUAGAAGAGAGAAGUGGGGCAGCUCACACUGCUCCUCACAAGACUUCAUCUCCGAAGUCCAAAUCUUCUUCCACUUAGUCUCACGUAAAGACUCUGAAGUUGACUUGUUCAACUGCAAAGAGUACUCCAAAGACUGCUGCUCACCCGACGACGUCAACUACUUCGCAAGGGGGAGCUACUUCGUCUUCUACAAUGACUUAGACACGUUCUUCUUCGUGUUGGUCAUCUUCAUGGACAACUUCUAUAACGCGUCCAACAGUAUCGACUGUGGAAUGUCCUUUGAGGACAACACAGACUAUGACAACUUCAGGGUGGCGUUCACCACUUUGAAGGCAGACUUGGAGUCUGAUAGGUCGGGCUCCAUUUUCUUCAACGUGGACAGAUACUCCGACUAUGGCUUGUCUGUGUCUCACAAUGACAAUUUGGAUUCUCCAAUGCGUUUUUCGCAUUACAACUGGGAAACAGGUUAAAACUUGUAUUCCAAUAAUGUCUCACGCAAUGGUAUCAAAAUCCACUGCGUUAAGUUCAUCGGUUCACGAUACCCCUCAGACACAAUCAAUUACGACGAUUGUGUGUAGAAUUCGUACCGCCACCAUAGCGACCACGAUAAUUACGCCGAAGUUUUCCCCGACAGGUUUUUCUCAGUCUACUCAUAUAAGACCGAUUUCCCGGCAAUGUUCAUCCUCUAAGUCAAGAGAACGUUCCGGUAAGAGAUCGAUUCUUAUAGGACGUACAGCAUCCGGGUCUACGGGCGCGAUUUGUCCUACAAAGAGAGGAAUCAUUCACGAUAUUCCGAUACUUACGUAUAGGAGAACAUCAGUGAGGAGAACAAAGUUGUCCGUAUAAACCACAUUUUGGUCGACACAGAAAACUAAUAGAAUAAUCUCUCCGAUUCUGAUCUCAAAAUCAGCAGCAAUUAAGGGUUCUACAGAUAUUCUCAGAAUGGUAUCAACUGUAAGGUGUCUCAAACUGAAAAAGUAUACUACCCAAUGCACCGCGUUAUGCAUUUCGAUUUCUAAUACCAAAAUGACAAAAACACACGUGUCUGUUGAGACGAUUGUGAUUUCAAGAAUCCUUGUUCCCACAACUAAUAUGAUUCUUCAAAGAAUGUCAACUGCCACACGUUAUAAUAACGAUGUGCAGAUUCCUGUGAAAUCUACUAUAGAAUGUUGUCCGAUUAUUCAGACAACCAUAAUAUAGAUACGGAAACCCUAUACACAGAGUACCAAAUCUGAAUUAAGUUCGUCCCUCACAGCACGCAUCUCAAUUGCACGGGAUGCACACAGAGGAUCGAUUAUUUCUCGUUCUUCGAUAAAACUACAGACUUCUGCAAUUCAAUUUGGGAAGUCUUCUAAAAUAUUUCGUGCAGGCGUGAUUACCACCAAUGUUAAGAACCGUAAAUCAGCUCCCACUUGAUAACCACGUUCUGAAUGCGAAUUUAUUCGAGGACGUAACCAGACUAGUUUGGUAUACGAUGUUCCUAUCACACAAAAUACAACAUUUCUUAUCAUGUCGAAAAGGUAAACUUUGUGAAAGUCGUACAGCACGCAUAAACCUAAGUGCGUGCUGUGUCGUCAAUUGUUAGCUUCAGAAUCACUGACAGCUACCACAUUUAAAAUCUUGUCAGCAAGAUUUAUUAUUCUUGUGAAUAUCUAGUGUCGAACCUACGCAAAAGAAAUUACCACGACUAUAAAGACUAUGGUAAGGACUACUCUUUGUCUUACCAGUGUCAAAUAUAGAUCGUCUGUUAAACUGACGACUACUUUGUUUCCGCGAAUUUCUCAAUAUACCGGGGCAACUAGGAUGAAAGAAUGUGUCUAAGAUAAGUGAAUUCCGACGUCAGGUAUUCACCUUCUACCAACACACACUAUUCCAUGCAAGAGAGUUUAACUCACUAUUAUUAACAAUAGAAUUACGUCAAUAAUACUGUGAACUAAAUAACUUCCUGUAAUUUAAACAAUAUGGACGAGAUGUCGUACGUAAAUACUUUGUAUUCCCGCCACUAAGUUGACUGAAGUAUCGGGAGUAAUACCGAAUACCGUUAACGUGUAAACCACGAGGUCUACUACGGAGAGCCAAUGAAGUAUGGCACGAACGUUUCCGACUCAAUACGACAAGACGUGCGUACCAAACCUCUCUCACCACGUUACAGACACCGUAUUUUCUACAACAAGAUGUUCCGAAUUUUCGAACAACAAUGCACCCACACGUUUGACAACUUCUAGACGCACGAGCGUACUGUAUACAUACGGUCACACCACCACUUGCAGUAGCCGUUUAUCAGCUUGUGUGGUGGGGGACCAACGACGAGAGUCCGUGUGGUUUACUUUUUAACCACUGUUGGAGGUGCCGCGGACUAAAACAUCGCAAAUUACAGAAAGUCCCGUAACUUUGCCGACAACCGGUAAUACAAGUACGAACGGACUUCCCACCAGAAUAAAAUUUCAAACUGAGACCGUGGCAAUCGUUCUGAAGUCUGACCUUCACGUUCCACUGUCUACAUGAAAAGGGGCCGGUUUUUAUGUCAUCGCUAACAUUACAGCAUGCCAUAAGAAACCUGCCAUUAAAGUCUUGUCUCCAACUAGGGCUGGAUAGACGAAAGAUACAAUUCCUACCAUUUAUGAAAUGUUCACUUGGUGGGCAUUGUAUAAGUGGUCGAUGUUAAAAUCGACCAUCACAGAUGUGAUUAUCGACGGAACAUAGCAGACUACCUGUUGGACCGCCACUACGAUAAUCAAACUCAAAAUUAUUGGAAAAUCCCAAACUAAGAUCAUUUGGUCAGUGAUUCUUUAUGUGAAUGAGGAAGAACGGAUUUCUUCUGCCGCUACACAACAACCGACUCAAACUGUGAAUACUGGGAUAAAUAUUCUUACCACGGUACAUAUUUCCGUUUGGUUAAGAAACCCAGUUGUUUCGUAGAAUACUAUGAUUAGAAUUAUUCAAGUUAUCUCGAUCAAACGCAGUUUAAAAACUGCAUGGGGGGUAACUUGAGCUUUUAUUUAAGUGUGGAAACUCACACCGCAGGUGUGGUCAACUUGGAGGUUGACAUCUACACCAUCGUGAAGUUGUCCUUUACUGUUAACAGUUUACAUUCCCAAAUUUAUUUGGAAAGCACUUCCUGUUACAGUCAAAGCAACAACUACUGAGUCCAUGAGGGCAACAACUCAUAGACAGAUUUCUUCUAGAUGUAUGUAACAUACAUCUGGGAUUCAUAGUUCAGUAACAGAAUUUUCUGUUACAUGAAAGAAGAUACGAAUCUAACGUGUGGCAACUCAGUCCACUAUAAUUGCAACAACGUCGAAGGCCUAGAAACUGUGCAUUUCACUUCAAUGAUAAAUCCCGAAGUAAAAUAAAGUUUCUUAAACGAUGGGCGUGAAAGUGACGAUGGUGACGACAUCCAUCAACAUAUUUCUCACAUCACGCCGUAGAUCCACAAUGAUUUCCGUAUAACUGUCCGACAAAAUCAAAACAGUUCUACAAUAAAUAAGAAGGUGAUCGAAUGAAAUCACUAAGUUUUGAGCCGUGGUGUCUCCAAUUUCACUCACGAAACUUUUGUCGACCGCAACACUGUCCAUUACAACAUUUUGUCACAACGUGACGACGACAACUAAAUUCAUACCUAUUCAACGCGGCACACCUAACCUUUAGUUGGGAUGCCAACAAUGAAUACAAUACGUGUUGAUACCAUAACAACAGAAGACACAUAGUGAACAUACAGAAGUUAGUCCAGAAUAGUUCACUACAAUACAAACUUCUACGGGUUCCAAACUUUUUCAAGAUGUUUCUUCAAUCUCGAAUGGAUCCUUAGAGAAGACGAACACUGCCAGAACGAAGUCGAAUAUCCCGCUUAAGUAAACUACAUGGAUGUAAGACGCGUUUGGCAAGACGUUACACAUUAACCACGAACUAAUCGGUUCUAAGGUAUUGAGUGAUGGGUCGAGAAUUCUACCAAGUUUGUGUAGAAUCGGUGAUACAAGAAUUGUAUCUAACCAACACCAAACGUAAGCUCUGACCAAACCGUAUGUACGAGAUAUGGAGCCGGAAGUUGACCAACAACAACCGUCCAUGUAACGUAAUAAAGAAACGUGUCUGAAGGUAUAAACAUCUGACCGCCAGUAUGUUAAUACGACACAGAUCACGGAAGACCAAUAAAUGGGUGUAAGGUUACCGCCCAAACCAUGCUUACAUAUUAAACAAUCGUACGGAAACCGAAAAUGCGUUCAAAAUAGUCGUACAUUAGUUACCAACGUUUCUAUGCCGUACGAACGAGACGAUAUUCUCCUUGGCUGAAUGAUCUCAACUUCGAAGAUGGCAACAGACACCACCUUUUGCAUGCAAAAUAUAGUGUCGUUUACCGCCAUAAAGUAAGACAGCAUCCGUAUUAACCUUAACACACCUAACACUGUAACGUCCACACCCCUUAUGGAAGUAGACACUUCUUCAGCGUUUACUGGAGUGAUGGCGGGAUGCGUCCGGAUAAUUGCGAUGCCUAUCUAGUGUAAUAAUACACCUAAGGCAAUGUCAAUUUCUCUGACAACAAGUCAAAUUAAUAGCAUCUCUGCCAGUUGGUAAGAUGCUCGCCAAAGGGGAGACGCGAAAAUGUUUAGAUCUAUUCAACUUCAAGUUUCUCCAGACAUUUUGAUGAUGACCAUAUGGACUUAUGUUGAAAUAGUAGAUGCUGAGUAGUCUAGCACCGGUCCUUUCAAAUCGAUCCAGACGUACACAAAUAAUAAGAGUUCAGAACACAUUUAGUUAAGAAAACCAACUGAGUUCAAACCAAUGAAGACAACCACUAAGAUCACUUUAGCGGUGAUUUUACAAACUAAGGAAACAAUUAUCAAAGCAGAGCGACAUAUUACAGUGUGCGCUAUUCAACCUUUUUGAAUAGAGAUGACGAGCACUACCGCAUUCCGCUCCGCUAUUGAAGGUAUCACAGAAUUGUUGUAAGUAACUGCGUCGUGCUCCGGGGCGUCCACACCUCAGACUACAACUCUGGUUACUUUAACAACUGAGACACGUCAUACGAGUAUUUGUACUGUAUGUUUAAUGAUUACUCUCAAUGUUAUUAAUACAUGGGAGUAUACAAUUUGGACUAUCACACAGAUGGUCACUAAAUCCAUCAGAGUAACUAACAUUACGCCGAAGUCAAUUGGUUUAACAGAACGCAUUAAGAUUACCACGAACAUAAACCUUGCGACGACGUAUAUACUUUGAGAGCCUACGUGAAUUUGCUGUCUAAGCGUAACGUACGGCAUUCACAUUAAAUCGAAAGGCCAAUUGGUGGAGUUUCGAUGCGCGAUUACUAUUAUAGAAUAGUCAAUCUAAGUGACGAUUGUUUUAACAACCACCACGAGGAUGUACCAAAUUACACAACGCACUGAAAUGCAAUUUCCCAAUGCAAGAACGAUGGUAAUAACACAAAGACACACGACAUGACUACAUAAACACAAAUGGAUGUAAAAGAUACCAUGGACAACUUAAAAUACUUCUGGCGUAGAACCUGAAAUUUCAAGAACUAUUACCAUAGUAAUCCCUACAUUUAGGACUACUAUUCACGAAACGAUUAUUCGUGGCCAGGAAGUGUGUUACCAUAGUACUCGUACAACCACCACAGAUACUGUUGAGAUAGUGUACGGGUAACUGUCAACGUCAUUAACGACCUCAACGACCACGAGCGUAAGGUCUGCAUGGAUGAUGUAACCGAACCCACUUGUUAGUCUAUUAAAAGAAACAAAGAGCUCAGAAACGAUUAUGUCCGUCACAAACGAUGUGAGGAUAUCUACUCUAUGGGAUAUUCUCAAAGAGACUAUCACCAACGUAAGAAGGUAGACUCACGUGAUACAAAUACCUACGUCUCCCGGCAUACUGUGGUAUGACGGUACUAGGAUGACAAAACGGACCCCGAAAACGCAUGUCAGUCUACUCCGGAGUACAAGCAAUGCUGAACAUACUACCAUUGUACAAAUAAUUUAAAGGACUUCAUCAUAAACUUUCAUGUGAAUCCUAAUGAUCUUGAGACAGUUGAGUCAUGACGGCCAAGCCAUCAACACUCAUACGUGUUCUCCCACAAACAUAAUGGUGUUUACCGAGCACCCGGUAAAAAUUACUGGUGGUAGAAUUAUCUGGACCACAGAUAACACCGAGACUAAAAUAACUGUAACAGUCCGCCAAUCGUCAUAGUGACAAGGUCGGAUAAUGAAUAAAGGUUAACUGAUGGAGUAACCAGAACCCAUAUCCAAACACACGUAAGGACUGAAACGAGAAGAUAAUAUAAUUAUUUCAUUUUGCACGAAAACGUCUAAUGUGGGUCACACGACAUUAACGACAACAACGACGACAAGAAUUAUCGAACACGUAGACGAAACAACGGAGAUAUGGUAACACAUAUCAUGGAAUGUGACGUAACAUGAUAAUACGAUGUAAGAUAAAAUGAUUACUCGGACGUAAAUAAUACGUACAAAGAACCAUGUAAUACAAGCCCGGAUAGCAAGGGUAUACCUACUGGACGCAGAUAUGUCAACGUUACACGAAAUCUGUGAAGAAGACCCAAAAUCGAAUAAAAUCAUUCUUUGUACAUCUUCAAAAAUGACUACCAUUCGAAUUAACAUCAAAGGUCCUGCGACGGAGAUUAUAGAAACAAUAAUUGUUCCUGUGAAUACGUCGAGAAUCUUUGAGAAAUUGAUUACUACGGAUAAGUGCUAAAAACCCCAACAAAUUGUUCAUAUUCAUGAAGAGACCACGAUACCUUUGUCGGCGAAUAGCACUUCGACGUCGUACAGUAGAACGAUUUCGGAAUGUUUGUAUGUCACUCUGACCAUCACUAGAAGAAAUGGUUGGUGGGUUGACAUCGUAUUGGAGACCGCACAACGUUUCGCCAAACCACUUUUACAGUGUAGGGUCACCUCUACAACUCCGAACAUACCAAGUCCAAUGGACGCCAUCGUACUGAGAAUUACCAGAAACCGAACUGUUGUGUCAGACCACGGGUGCUGUGCAUUACACGGGCCGACUGGUCAACAGACUAGGAUUAAUACUACGGAACAACUAAAGAUACUGAUUAGUAUCAAAGUCACACGUUUUUGUGUAACCGCGAGGUCGUUUGAACGCACAACAACCAGUACGGUACGUUCCGUGAGAAAACUUCAACUGACAGCUACAACGAUUGGGAUCGUGAGGUCGGAUGUGAAAAUGUUGUCACUUUGGACCGCGUCGUAAAUCACACAAUCGUACGAUAUUACCAGCAGGCUGACCAUGUAAGUGACAACAUUACGCGGGAUUGAUGUGUUAAUUCCCAAGGAAAGACACACCAAGAACACCAUCACAACCAAUGUGGUUCCUCCCAUCACACUAGUUAAAAACAAUGUACGUAGUUUACCUUGAACGAUUACCAUGUGUAUGGCCAAGUCGUAAACUACCAUGAUACAUACCACGGAAAUACCUAUUUGUUCACGUGGUUCAAGUCAAUUGUCUGUUUAUGACGUCACAAUUACAUCAUCGAACCGAAAUGCGUCGUUAUGAAUUACCAACGCGAACCAAACAUUUUGGAUUAGCGUGAUCACAACAAAGAAAAUUACUUACCCGAGAACGGUUGGUUAAGUGACUUAAACAACCGUGAGUUAGGCAACUGUACAAUCGACAGUUUUGUCCGCAACGAUAACUUGUCGACGAAAUACGCUAGGUUGUUGAAAUAUGACCCAAGGUCCCUUUCGUUUAGGAACCGUCAUGAUACAACCUUCUACUUAAGUGUGGACUCCUACAAUUAUACGUCUAAUACCCACACCAAUACGUCUCACCACACUCUUUUCAAUGUAUACCAUGACGCGUAACCAACAAGCGCUGGGAACAAAGUUGGAUACACUAUUAGAAUGUUCGGUGAUUUAAAUGAAACACCUUGAUGAACAAACUCUGAUAAGGGUGUGUCAACAAGGGUGAGAAUAAACACUGAUACCGGAAGCAAUACAACAACCAAUUUGUGUUUGUGUGGAAAAACUGUGAAAAGAACAACGGACACCGAUAAACAAACUGAAUACGUUUGUAUCAGAUGCUCGGGUGAUGAGGGUAAAGCAGUCGCGACUAACGUCAACGUUUAACCGAACGGGGGUGAUUACGAAUAUACGCGUGAUGUGUAUGACUAUAACCACAGAUGUAAUCAUACAGUGAACAUAAUCAGUAACAUCACUUCUCUAACAUGUUGGGUAGUGAAAGAUUGAAACGCAAUCGUAACACGUCACCACAUUACACCAACAUGUGAAUAUCGUAACCUCUUCGGAGUUCGGGGUAACGGAUAGACCAAAAACAGUGAUGUGAGUGAUCACUAAUAUGCUAAUGUCAGAAACAAUGACAGUUGGAACGUUUUCAAACGUGAAUACGGUAGAAACGAAUGAGUGGUGUCGAAUGUGAACACAAAGGCCUUCACUUCUACUAUGAAAAUAAUAUGUGUACAAAUCCAAAGUACACAUGAACGAUAAAACCACAGAAGAGAAAAAACUUGGAAUUCGAAUCUCGUGGAUACCCACAGAUACUGAAAUUCCAGAGUUGUGUUCUCAAGUCUAAGUACUGACGAUUGUUAGAUUGACGUGGAUCUUUAAGAACCCUCCGAUACCGAGACUUGAAAUUCAAUUAUCCAUAACCGCCAUGUGGAACAUAUUUCCAACGACGAUACGUCAGAUUUGAAUGUCUAGAAUUUACGUGUAGACACCAAGAGGAGAGACACGAGGUUGUCAAUGUGAAUCUCCGAUUAUCAUCCCGGACCCGAAAGACACAAUUUACGGUAUUACUGUAUAACCGUCGUUGUCUGGGGUCACUCCGAAAGCUCUUUAAGCAUUCAGAGAAACGGUGAAAUUACUGAAAAAGACCAUUACAUCUAGAACUACGCAAUCGAUCACUAUAAAAACUGUGAGGAUCGCAUGAAGUUCGAUGAGAAAGACUCAAAAGUGUGAAUCGAUGGAAACGACUCAACCUUCGACGCGUCUUUCGGAUAGUCCUUCGAUACCUGAGACCACUGUGGAGUGGUGUUCAAGAAUUCCGAAACGUCUUCCGACAAUUAUAUCGAUUUUUGCGGAUACUCUUCCUAUUCCGUCACCGGGCAUUCAAUCUUGCAUACCGACUAGUCCGAUACUGAAGAUACAUAUUCGUUCGUGCACGACUUCUGUUCUUUCGUUUUUAACAGUCACGAUACGUUUGAUACAACAAACCAUACUAAUUCUUCGAGCUGUUGCUACAAGAAUUACCAUAGUAAAGAUUGCGAUCCUUACCAACAUAUGGAGAAUCACAGUAAGGUGACACACGAAGUUUAUUUGAAGCGCAACAUUAAGGACUGAAGUGGCAGACCUUAGUCCAUCAGUGUAUAGGGAGCGAAUUGAUGCGACCCCGAAACACCCUGUAAUGUCAAUAUUUGUUACACCUGUUACUUUAACAAUUCAGAAGUCUACAACAUCUGUCGUUACUUUUAAAUUGUACCGGUGAACAAAAUCUUACGUGAUCCCGUAGGUGAAGACGGCAAUUCAACGUUUUAUUACUCUAGUUUGGAAGUCCAAAUUUUUGGUACCAACACAGACGUCCAGUUCUCGUUUGAUUGACAUUAUGAUCAAGGAAUCGAAUAAUGCUUGGACACGUCCCAGCAUUUUACGACUACCGAGAAGAAAGACUAUUACGGAUAGAGUUUACCCGCGCACAACUUCCAUUCCUGCCUAAACAAUCACAUCUCGAUGUUGGAGGAACGUUUAAGAACUAACGCCCUGGUUUUCCUGGACUUUAGGCUAUAGAGAUAAAACAAUUUUUAGAAUUGUUGGAAGUAGCGCCCGUUCACAAUCCCGUGUAACGACGCUGACAAUCUAACGUUCGACCAAGAUUGUGGCUCAAACGGAGAUUAAGAAGCCACAACAGUGAACAAUUGAAGUGGCAACUAGGAGUUUUUCGAAUAGAGCUAAAGCAGUUACGCCCUCCACGGGGUAACUGUUUAACACAAUUCUACGAAUGAGGAUUUUGACCAUGUCCAUAUCGAUAUAGACAAUUUGGUCUCUCAUGUCGACUAGUUCUCUGAAUACCACCUCGAAGUCACACAGAGAUAACGGCACGCGUAUAUCUUGUAGGACUACAGAGACCACAAACAUUUAUAUUCCCAUUCAAACAGGUUUAGGGACGAGUCACACAGGCACUGGGACACCCUAAAACAAACAGUUUAUGGGGGACAUUACAGACAGUUAUAACCUAACCUAUACCCACGUUAACACUGAGCGAAUCCGUUCAUCGUGACGGGGUUAGAUUUCUAAGGUUAAAAAAUUUGCUCAGGCCCCAAGAUAACAUUUACGGGCUUAUCUUGGGACAAGUUCACCAAACAGGUGACUACAGCAGAAAUCCCGUAAACUGUAGACGUUGAUAUUCCGAUUCCAACGACCAUAACCUUUUAUGAUGUUCUGAUUAUGAACAUCCAAACAUCUUAAUCUACUGGUUCCCGUAGUAAAUCUGAGGAUAAAACAGCAAUUCUCCGUAUGAUACCUCUUAAUACUUGAUCUCUUCGUGACAAUGCUAAACAAUGCACUGACACUACGACAUCGAGGGGUACUAAAGAAGUAGAAACUACAUCUGUUUCAAUUUUGUGGAGUAUAACAUGCAGUCGCAAAUUGACUCAUGUGAUACUACCUAGAACAUAUACGGGACUCCGUGAAACUAGUUUUAUCGCUUCACGAAUUCCGAUAGAAUCACUUCAUACCAACGACACUACAAUGGAUGAAACUUUUAUUUGAGACCAAACUAAAACAACUUUUAGGGUCACAAUAACCACAAAUAGUAUUUGAACCUCUUGCACAUGCGGUUCGAUAGAAUUUGUGACAAUUUAAAACACUGGUGUACCAGUUCCGACCAAAUCAGCCACACGAGUGUGAUCUGUUGGUCCUGGAAUUACCGUUCACCAUACUAAAACCACUGAAGCAUUAGUGAGUUGGACCAAGUCCUCAUCGAUAUCAACUAUCGAUGAUAAGAAUAAACUACGGACACGAGAGUUACUGGCUAACAGACCGGCGACUCUGUGUAUCCCUAACACUAAAAUUAUUUGGUGAGUAACUCACCGGUGAAUGACUCAUACUAAAAUGACUAAUAUUCCAUGUUGAGAAACUCUUCAUGAAAUUUAUAACCCUAGUCUGCAUAGUGCGUUUAACGCAAUUAACAUGACUACUGGCAACACACAAUGUAACACGAUUAAAGUUACAUAACAAACGAUACUGGUACGGAUUCUGAACAAAGCCUGGGUAUCAGGCUUUCUAGAAACAACUACCGCACGGUAAACAUCAUAGAACACCAAUAGUGAUGUUUCUUAAUCCAAAUCAGUACUUAUACCUACAAUCAGAGGUAUCUGUAUCCGAGAGAGAAUUCCUCAACUACUACAUACGGCGACUAGGUCGGUACGUGUAACGGAGGAGAUUGCGAAAAGAACUAAACUCCUGUAGUACAAAAUCACAGCGACGUGAAUGUUGACCAAACUGAAAAGUUUGACACGCCGGACCGUUAAAAUUGGUUCUGAAGAUACUAAAGCACCAUAGAUUUCCAAAGAAAUUCCUCCCGAGAAGUCAAUGCGAGUUUGUAAAAAAGAAACGAGUUCUACCAUUACGACGAUAAUGUCUAAUAUUAAUGAUAAGAAUAUUAGACGGAUGAUACACACUGUAGUUUGUUUACAACAAGACGUACCUUCAACAUUUGUUCAUGAAGCUUUAGAUACUGCCACCAACAGAAUUACGAAGACUUCACCAACAAUUAUUAAAUCUGUUCUCACGACCGGUAGGAAAAUUAUUCAAACCGUUUCGAGCACAGAUAAUACUCUCGUACAGAAUGGUCCUCGUUCUACUUGAGAAACGGUACUGUUUCGCAUUGCAGUAAGGAUGGUACUGAGUUUACUUAGAUUUUAUACGAUAAUCACGAUUCUUAUCUCGAGCGUGACAACGUCCGCACAGGUAUGAAUCGUGUUACUGAUUAGCGGUCAUGGUAGUCUUUUACGAAUUCAGGUACCGACGUUGAGCACCUCGCUGAACGCAGUAACCAUGAUGUUUCAAGAUACCACCGACCCUAAAGUACGAAUUUUGUAACAUGUUUCUACAACUAUUAGGCGUAGAAUACCCAACCCUAAUGGGAUUCACACUAUCUCGAUACGGAUUAUACACAUCUUAGAAGCGAAGUGAGUAUAAUCGAGCAUUUGUACCGUGAACAACAUGAUGUUCCCUGUCUAAAAUAGCGAACCGUUUACUCACACGAGUCCACGAUUCGCUUAUACAAGAUACACCACCACCAAUGAUGCAGUUUGGACCUCCAUGGUCAUCGCCUCUACGGUGGUGACGUAUACGGUUAUCACAGAAAUUGUAAAACGUCCGCUGUUGACGAUUACAGUCACGUGAAUACCCACGAUUACCGUUGUUCUAACAACUGUUUCUUCAAUUUCUGUACGUCAAACUAAACAUACAGUUACAAAUGUCCUCGUGAUCGGGUCUGGGGUUUAAACAACUAUUUAUGAUACGAAAAGAAUUAUUCGUGAAAAGAUACUACUAUGACAGACUACUGCCACAGCAAACGAUAUUAUCACUAAUACGUCGAUUCCCAAUGUAACGACCUUAUGUCUUAAAAUUCCUUUGCGACAUAAUAGUCUUGUUACAGAAAUACAGACUUCGAUUUACGACCCACCUUUGGCUAGACUUCUUUCCCGGUGUACUUAAGACAAGUGUCGUAUGCGAAAUAUAAUUCCUACCGCUGCUACCAAUGAAGGAAGGAAUAGGUCUGGGAAGUUCUUAAAACAGACGGCCAACGAAACAUCUACUAUAGCAAUUCUGACUGCCAUGUGAGUACCAUCUCGCCAAACACAGAAACCGAUAUCUACGAAUGGGAGAGUGUUUCGUACUUCUAUAUCUUAUGGUCUUACAUAAGACCCAGAUGAAUGUCAUAUAUCUUUUUGACAUAUUUCUGGAAUGUCCUGUGUACGAACUGUCAAUAAGACAGUACGAUACACCACUAUUAAGACGAUUCAAAACCCUUCUCCGUAAGAUGUCUCUAGAGAUAUCAAGCGGAUGGUGAAACGUCCGACAGCCAAGUACGCAACAUACGGUAAGUGUCUGAAGGGAUGCGACACCCUGUACGUAGGCAUCUGGUAAAGAGACGACAUUUACGACGAUACUAGUACAAUAUCGUUGAGGUGUAUUCUACCAAAACAGACAAAGAGGAAUGCAAACAUUACGGGGACCAACACCGCAAAGUCUGCAAUGAUUCGAUAUAAAUCCACCAUACUCGAUGAAAACACAUCUAGUAUCUGGACACACAUCAAAAGGUGAAACGCGAUUACCAGAACAUAAGCCGAAUAUGUUCUUAUACACGUGUCCAUCAGGAAGAUAUCAACUUAAAUUAUCCAACCGAUGGACACUGACCUGACUUUCACCACUAAUGUGGGAACGGUUAUGAUGUUGUCUUGGUGAGUUUGAAAAACGACGACUCUGAAAUGCACGGUGACUUCUCCGCAGAUUCGUCAGAAUACGAUAACGGUGGUAGUUUCUUUAACAACCACUCGCGGUUGAUAAUGAACACACCCUCCGACCGUUCAGGUUUGGUGGUGAGUUAGCAUUAAUACAAAAAUGACCAAUAGUAUAUUGGUUUUUAUCAUUUCACGUCGAGCCACUCAUGUAGAAGCUCGCGUAACUAAUAUCACUACGACAUAGGAUGUUCAGAUCAUGUUGCAUAUUUGACUGACAUCCACUGUAGAAGCAUGAAUGGAGAGUGAGACACCGAUGGAACUGCCGCGGGUGUUAACACUUAGUUCUCUCCAUACAAUUUUAAUGACCCAACAUGGGUUGGUAAUGCCAUGGACUUCUCAAGCGUUCAGUACAACGGUUGAAGGUUUUUAGUCCAAUAUCAUUUAUACAGUGACAAGUCCCUGGUGGACCGUGACCGUUUUCAGUAAAACGAUAUCCCAAUCGCUAAAUGAUGGGAUGUCGUGCACAACAAAUAUGUCGUACAAGUGUGCGUCGACAACUACGAAACACACUUUUUCGAAAAUUUAUAAACUUGUAACGAUUUACAAGGGCAUAGUAAGGACGUUUCCGUGCACAACUCACGAUACUGUCCAAAUUUCAAUUACUCUGUUUAAGAGUUAUAAACAAAUCAUGAUAAUUACGAGAUGGUCUUUGAAGACGGCUAUAAGACCACCAACUACUCCAAUCAUACACGUGAUUAAUACUAGAAAGUUAAUAAUUACGUGCAUAAUUUCGAUUCGUGUAACAGAUACAUCCUCUAGGUCGUGUCAACGGUCGAGGAUCCUGAAACAACUGAUCUCCGUGUAACCUUGGUCUUUUAAAGUUAUCACAGUGAUCUAACUACACAUUGAAUCCAGGACUGUAUAAAAAUUCAUACACGAUGUCCACAGGAUUCCUUUAUCAUUCGUGACACUCGCGAGAACAGAUGUUAUUAUUUAACAAUCGGUUCUUCCUCGAAAGUCCGGUCACGAAAUUUUAUGAGAUAUUCCCGUUACACUGCGUACUACGAUCGAGACGGUAAUUAUCUGGUGUUGAGUGUAAACACUUCUUAAAAUAAUGACGGUUAGGCCGUACCUCAUUCCGUCAGAAAUAAAGCGGAAUAUUAAGUGUCUUACGACACCGAGCAAGUUACGACCCAGAAUGAUGAGUCUGACAACUAAGGAGUGUCCCAAGUCUUAUGGUCAUGCAAUAGAAGACAGUUUGUCGUCUAUGCCGUGUACGAUUGUUGUAAUUGUCUAAAUUACAACGUUAGUGAGCACGGGUUUUUCCAUAAGAAACACAAUACUGUAGAGUCCGUGAGAAACUCAGGAAUCUCAAAUGACUUAACAGAAAAUGAUUAAUGUUCGAGGUCAGAGUCUAACAUUGACCGGAAAAAUUUCUAACGAGAUCUCUUUGAAGACCGGAGAGUGGACGAAUACGUGGUUGUAUGCAAUCACAACUACUGUUCAUAUUCUGCUCACUACUCGAAACGCACUUAGAAUUAAAUGGGCGUUUAUAGGGUAUGAGAGCACAAUAAAGGUCCUACCCGAAAUUUGAGCUACGUUGUCAAGGACCUAUAGGAUUCGAAAAGUAAUGAGCACUUCUCCGACAUUCCGUUCAAGCUUCGACCUAUCCGAAGCUACAACUCCCACGAGUACGAAGGGCAUUACGUACACCGUGGUUACACGGAGAUGUUAAUCCUAAAAGUUGACCACACUUGAAACAACAAGUCGGUCAACCACAACAUCUGUGACUCACCCCAUUGUACAAUUGCCCGUAACGACGGGCAGGAGGUGGUCCACUUGUCAAAUUCGUGGAGCACGGAGAAUACGUAUUCCCCCGACGCACCGGAUAACAAUCUGCUGCAUAUCACGUUUACAACAGUCUGUGAAAUCUGUUUAACAGACUAAUGACAUGCAAACAAACAACCCGAGUACCGAAACUUAAUUGCAGACGUAGUAUGAAAACGUUCUAUCCAUUCCUUGUCUUCACAACGUACACGUUAUCUGCGCGACGUCGCAUGAGAAGUGGAGACGUUAGAAUACGGACGACCUGAGUAAGGACGCCAAUACUAAUACAGAUGUUGGGAAAGAAACAGCUACAAGUUGUCACCCCAAUACAUCCGUUAGAACGAUGAUUAGUGCUAGCAAUAACGAGACAGGUAGUUCCUCGAGUACACCGAAGAUUACUACGUUAUUACUGAGCAACAAAUCGAUAAGUAAGAACAAAAUAUCUUGCACACCUAACCCUAUAUCUCAUAGGAAUAUAGAGUGUACUUUUCUUUAACUUAAGGACAACAUCUUAGCAACUCGCGUUGCAGCAUGCACGACGAGAAGAACGGCCAAGUAAACUGUUUCAGAUACUAUAACCGUUAGGAUUUCCUUAAGGAUAACAACUACUGGGACACCAACUAACCGUAAUAAAACUACGUGUCGGGAACUGGUCUUUCCAUGUUGUCGAAAAGAUAUGUCUCCUGUACCGGAGUUCUAAACGACUACCCGAGACGAAUAAAACCUUGACAUUACAUGGUUUUAUAGGAUUAUUACGUUAACAUACGUCCAAACUGUGUGCACACGUAAGACUCAAGUUAAACGGUCCAACACUACCGCCAUCAAACAUACAAUUGUUCGUGCGAAAAGUAUGUGGUCGUAUACUACACUCACGUAAGGCACUAGACUUUGGAAAUGGUAAGAAAAUAAUAAGAUGAUGUGGUACACUUCACGUACCAUUACCAUCAUACUAUCUCCUAUAACUAAUACAUGGGGAUUUUAGACGUCAGACAUAAUGUCGAACAUUAAAUCCCCCGCGACAAACAUCCUUCGUACGAUGUCUCAUGUCUCUCAUAUACCUUCGUAUAUUAGAACAGAGACGUAGUCCAAAGGCGGAAACCACAAUAUUCUGGAAACUAUAAAUAUUAGAGACCAGAUGAAAAUGUUUUCAAGUUCCAAACCUUUUGUAACGAAAAUUACAACAAUUUGUUCCGGUAAAAUAACCACAACUCCCACUUGAUGGACAUCGACAUCAGUUACUAUUCUAGAAGUGGUUCUCACCGCAAUUACUGUAAACAUACAAACUCUUAUUUUGGUGAAACGGAUGAUUAUAUCGAAAACUUGAGAUACGAUUCGCACGACAUGCGAGCGUAGGGCUAAAGUUUAACGAUGUGUUAAAUGUUCGUCUGUAAACGAUGUUCAAGCAGGAAACCCUAAUACUUGCAUCGUUAUAAAUACCAUGACGAUGAUAACCACAUACAUUCAUGUGACUAUAACUACAAUUAAGUCGAAACUUAUAUACAAAACUGUAUGCGCUAUUACCAAGUAACCUCUUCAAGUACAGAUGAGGGUUACGGUAGAAAUAAAGACUAUCUUUUUAAUUCUUUAUGGGAACAUAACAUCCAGGACUAAUACGAAUGAAGUUACCACGAUAGUAGGCACUAUCACUACAACAAUUUGUUGGUCACUUCAAGAUGAACAUAUUCUUUCAGUUAUUACUCAAAUAACUAGGAUGACUCACAUAAAUGUGAGUCUCAGCGAGAACAUCACUGAAGGAUGGGGACAGACUGUACCUCUUUCUGAAAGAUAGAAAACUAUCACUACAAAAGUAAUUCUUCAUACCGAACCUUUUGAUACGAAAACUCGUGCAUCAGAUACCUCUGAAGAGAGUAUGAUGCAAUCCGCCAGAAGUGAACGAAUAACCAAAUAUGUUCUUCGUUGUCCUUCCAGUAUAAUAAUACCUUCUUUACGAUUUUCCAUCGAGUUGAUAAGUAUUGAUAAAAUAAUGACUCUGAUUGUGUCGCCGAAAAUUCCGCCACACAAGACAAUAUCUAAAUUUCGAACUGCUGAAACAAUACUAAAAUUUCUCAGUUCUGGAACCGCAUCAUAGGUUCCAACAGUUCCAAGGAUAACUGAAUUGUUACUAACUCAAAUACAAUACCACAUUCCUACCUGUCCAAGUUUGGAAGAUGGGAGCUGAGGUCCGAAGACGUCUAACCUUUGGACCAGUACGUUACGGUAGGGAGAAAUUUCAAGUUUUACAUUUGGAACUUGCAACACUCGAACGAUUAAUGUUCGUUAGAUAAGGAUACGGAGCGCCACACGUGUACUUGUAGCGAUUUAUAUACGUUAACACGGUCAUAAAUUUAUGAACGUGUAAUCGGCACGGACGGUUAUACGCACAAUAUGUAAAACCGCGACCAAGACUAUUUCCAUAGCGAGGACCAUGUAGUCAAAAUGCUGUCACCGAAGGAUGUCUACGGUAAUAAUAUCUAUUACUAAAUUUACUCAAGCACAGUCUACGACUGUAUUGAAAUAAACCUCUAACACAUUGACAUGCACAGUCGGUUGUUCACCUAGAACAAUAAAGGCUGUACAUACUAGGAUGAUGAUUCUUACAUUGUCCAUCAUUACUCAGUUUCCGAAAUAAGAAAUGAAUGGACACAUUGGAGUAAUUAUUAUUAGAACGAGAACCACCCAGACAACGAUAAUUUUAUUGUCUUGUGAGAACCUCGCAACUUGAAAUACUUGAAUACCCUUUUAAACGAACCACCUGACAAAAGACGUGGUUACGUUUACGUAGGAGUAGACUUCCUAAGGAGAAUCCAUAAUUAAUGAACCCAUGAUAAUUUCUUUUAUAUCUACCACCACGAUACGUGCGGUUGAUAUAUAAAACCUCUUUAAGGUGAGGAUACUUAGACUCAUGAAUGAGUGAAAAACUAAAUAGGUUCAAAGUUAAUUUUAAUUUUCCUUGUGGUCAAGAAGUUAAUUUCCUCUCAGUUUAAUUGCUUGAGCAUUAUAGAGAGGACAGCGUCCCAUUCAAUGAAUAGGCACUGUUACUAUGUGAGUCACAAAGAUGACUACAAGAACAAUUGUGGAUGUCUUUCAAUGCAACUACAUCCCGGUCUAAGACAAUUCAGACGAACAUAACUCCAACUAUAUGUUGUCUGAAAGAAACUAUUUUGAACCGGAUCCGGUUAACUACAAAGAUUCCGACUGCCAUAAUAUAUGGGAGUUCCCGCAUGUAUAAGAUUGUAUUGAUAGUGAAUAGUUCCAGAAAAAGGGAUAGUCCCUCUGGUACCACUAUACAUACAGAUGAGACGUCCUGUACGAUGUCCGUGUUGAGGUGUUUUCAACAAACAUCGAUUGAUAAGAGUCCUGCAGUUUGUCAAACGAUUACCCAAACAGCAGGCAUAUCCUCGUCGACGGUUAAGGUGACCGUGACAAUAAUAAUCGGGUAGAUGGUCGCGAUGAUAUGCUUUUUAAAUGGGACGAAAAUACGACCCAAGAAGUCAACCAUUAAAGAGUCUACCAUUUUACCCGGCGAAGAAGUUAGUAUGAGAUCAAGAAAACGGGCUACCUACACCGUGAAAUGAAUCUCGAAAAAUAACAUAAGAUCUCGGAGCGAGACCUUUAGUAACAGGACGACCGUUAAGGAUAUGAAGAAAACGGUGAAUAGUGUGAGGACGUUGUCUAACAAGACUACCGUUAAUGUUAGCAUUACGGUCAGACUUGAGAAAAUUCCUCAUAAAAUUAAAUGCAUUGACGUGGAAAUACAUGUGAAUAUUGUAAUGGCUUCUACUCUAAAAUCUCACCAAACCGUAAUGUGUUUGACGAGUUCCACAAGUGGAGAAGAGUAGAGCCAUACAACUAAACAUGCCGCCGUUAUACAAAGUUAAACGGUGGAACGGACAAAUACUAUGAUAAUUCAUAAUAAGAUAGUAAGGAGUGUCAUAAGCAAGAUAGGUUUCACUAUCUUUUCGAACCCGACGGAAGAUGCAUAUAUUUGAAGUUGGCAAUUGAAAGGACAACCUAAAAAGACAACUACCAAUAUAUGCGUCUCGAUAUCUGACACCAAAAUUACUAAACAGUGUUGAGGUGACGAGUAUACUUAGGAAGCUACAACUUAGACCUCAAAUAAGUCAAAGCAGAAAGCUUCGUUUUGGAAGACCGAGUCAACACCUUGUCCGACUUCCACAACUUACACUAAAAAGUGGAGAAGACAGACCGUGUGGAGGAGUCCAAAUAUUAAAGUUCGCAAACCAAAAAUGGUUAACGUUAAUAUUAGAAUGGUUUAACGAAAGUGAAAAAAGACACUUACUAAAAUGAACAUCAGUUUAUAGAGGUCGUCGUUAACGAUCGUUGACAAUAAGAAGUGACUAAAACCUAAUAAAAAGUAUGGGUGAAUCAUACUUUAGGCUAGAGUCACAAUCAAGACGACCAGGUUAUAGGGUCAAAUUAAUAUUUGUCAGGAAAAGAUUAGGGUGUACAAACUAAAAUCGCUGACAAGGAGUAUUGGAAUGAUGAUAAUGAUUCGGAGAAUUCAUGUCGAUAUAAUUGUUCACGAGAGCAGAAGAAAGACUACUAGCAUGACUUCAUGGAGUCAAUCACUUGCGAUUAGUUAUGAGUGGGACACAUAGGUAACAGGGUAGGUGACACACCCUUCUGCCACUAAUAAUAUCCUUUGUUGAUAGAGGUGAACUUCCACCACCGACCGAACAACGAUCACCGAGUUGACAACGGUACUGACUCGUUAAUGUCUACCCGAAACCAUAAUGUCAAGUUAUACCAUGUCUGUGGUUAUCACAAACGGGGUUCGAACUUAAACGAUUACUGUGUUUUUAACGGAGAGUUAAUCCGUUAACGCACCUUAUAAGGGAGAUACCACAAAGCCCGGCACCACAGAAAGUCUUAACGUGUCGACAUCCACAAGCUGUCGUCGCGAAACAAAUACUACGCAUGGUCUUAAAUCAACCGAUAAUAAGACUACUACCGUUGAUGAUGACAAACGCACGAACACAAUCACAAGGACAAAGACAGUAGAUACUAUUUCUUUGAUUUUGGGUGCGAUGAGAUAAACCAUCACAACGUACACUUGUGUAAAGGAGAUGGUACAGAGUUAUGAGGGCAAGAUGCGCUAGUUACGAAUUUGCCGCUCUAAGAUGUAUACCAGGGGAAGUCUGUGGACAACCAACACAGGAUCCUGAACAAUUAAGGAGAAACAAGCAUCUCCUGACGUUCAACGGAGAACCAGUUAGAGAGACACGAGAAGGACUGUGUGGAUCAUGAGAGUGUGGAGCGUCACACGCGAGACAAGGUCCACUUUACGCGAACCGUAGGUAACGAAAAUUAGUAGGAUAAGUCCAACUAGUUGAAUUAUCAUCAAUAAAAUUUAAUUCAUAUGGAUGAUUAAAAAGGAAACCACACUGAGUCCUCAUGUAAGUCUGUUGGUAAGUCUUUCAAUGACAACUAACAUUUGUCAUGCAAACGUUACCAAAGGUCUUCACACUCGUUAAUGACGCGCUCAUACCGGUCAAAACAAGGUUUUAUUUGGUCCGAGAGGUACCACGGUUAAAUGCGGUCCUACUAAGACAUGCAUUAAACAAACGCUCGCACUUUUCGAGAGUUAGUAGAGGAUAGUAUGGUCCAAAACCUCCACUGAAAUUAAACUGUGAAGAUCUUGGACAAAGAUAUAGAUGACCGUCAGCAUCACGUGCAUCACGAUAACUCCUAAACGAUAAACUGUUUCAGUGAUAUCGACUAGGACCAAUAUACGUUCCAAUGCUACUAACAUACGUCGUUCCAGGUCGUAGUCGAGCACUAGAAUAAACACGAGUUAUACACCGACCAAUAUUUCAUAAUGGAGGAGAAUACCUACAAUUAUACCUUCGGCGCAUGUGAAGUAGAAACGAACCGUCGUAUCGUCCACAACCGACCUGACGACCGAAUAGGAGGAAACGACGAUAAGGUAAACGUGUCUCAUAAAAAAUAUCCAAUUUGCCACAACCGUAAUGAGUUGUCCAAGAAAGUCUCUUGGUUUUCGAAUAACGGUUAUUCAAAUUAGUCCGAGACCCUCGAUACGUUUGUCCGAAGUGAUGUUGAUUACUUCGAAAAGCCUUCCAAGUCCUACGACACUUGUUGUUACGUGUCCGAGAUAGGUUUAAUCGAUCGCUCGAUAGAUUAUGAAAACCACGAUAAAGGCGGAGAUAACCUCUGUAGUAUGUUGCAGAACUGCAAGAGCUUGUCCUGCGGGUUUAUCUGUCUGAAUAAUUACCGGCAAACUGUUGUGAUUUACGAAAACAACGUGUCGUCGAACAAGCAAGACUUAGUCGACGAGAAAGGCGAGUUAACCGAUUUCUAUUUCAGUUACUCACACAGUUCCGUGUUAGGUUCGCAAGACCUAAAACGCCAGUUCCGUGUGUAUAUCACAGGAAACAACAUUUACGGGGAUUACCGGAAAUGAAAUACGUACAACCAAUAAUGGGAUCGUUGGUGUAACUCCAACAAAGACGAAUACCAGAAACGCUACGUCGAUUGGGAUGAUUAACAUAUCGGGGACAAUUACCGAUGAAAUAAUUUUGAUUAUUGUGAUCCUAACAACUACUCACCAGUAUAUGACCGAGCAGGAAGAUACGUGGACUCGGGUAGUGGAGAGAAUUAUGAUUCAUACAACGUGGUGUCCACUGUAUGGUUUUGUAAAGAUGAUUGGAGGGAGGAGGAGAAGAGCCGUUAAGGUGGCCCUAACUGAAGGUUCUACUCAACCUACUCAAAAAGUUUUUACAAUCGUGGUCAUAUGGAUUAAAACCAAGAGAUUGUGUCUAAUUAUGAUGUAAUGAGCUAGAAUGGAUGCUCUACAACAGAGAAGUUGUUCAACAAUUUCGGGAAUUACUCAGAAUGUAUCUGGAAUUUCUCGAACCGUUAAUAUGAAUAAUGUUGUUUACCGGCACCAUGUAAACCGAACCAAAGUAACGACCCGAACAACGGAAUCGAGAUACGCAGAAGAAGUAUGACACGACGUGACCAACACCGUGUUUGACAUACCCUUUUGAAUUCACAUUAGCAACAACACUAUCUAUGCUCCUUAUGCUGGAGCUCGGCGUAUUCCAAGUACAAGUGAUUAAUUGCUUGAUAGUUACUCUCAAGUUUCUGGUGGGUGAGAGAACAAUCACAAGAGUGAGAGAAAAAACCAGUGACGUAAAAGUUUUGGAGAGAUACAUGGACUCGUAACAGUCUUAAUAAGACCAACGUACGAAUCCCGAACAUAAUUUUGACGGGUUCGACUAUGUCGACCAGAAAUAUGUUUAAAAGCUUAACUACAGGGUAGACGUCUUAGUUGACCAUGAGUUAGUCAAAGACAGCUAGCACUCAGAUGAAGUUGAGUACUACCAGAAUGGCUUGUACAAUGAUCACACUUAGAAAAACUGCAACCAAUGAGUCAAUUAAUUGCUUGAGAUACCUAAUGCACAGAGACGAAUUAGUUUAAACCGUCUUCAUGGAAUUAAGUGGCAUAUGAUGAACAAACAUAUAGGGAUUUGGGUGUCGAUUCAUAUGUGGAAAUCAACCGUGAAGUAACGUGGGACACGACACCUUGACAGUCGAUAGGAAACGACCAAUAUGACUUAGACGACAAUUAAGAUGUUUUCGAAACCGGUUUGUCCUGCGUCGAGUCGCUUAGCGAACCAACGAUGUAUUCCUACCUCCUUAGGGACUGCCUACAAGGGAGAUGGAGGCCGUGAGUUCAAAUAAGCGCGUUUCGCUCCUUCUCCUCAGUAAGAGGUUGAUUCUUUGACGCGAUGCAAUUCGCAUCUAAAAGAGAAGACGCGGGACUUCUGGAAUCACAAUAACAGGUUGGUUGUGUGAUACAGUCCCAAUGUAAAAGUCUGGGGUUGUACACCAUAGAUGCAAGCCCAGUAGUAAAUGUGAGUCAAGUGUUAACCGAAUUUGGAAUACCGCCGGUUGGACAAAGACUCAUGGUAUAAUGAGAUCGAAACGAUUUAGAGUGACUACUUCUAAAUCGAUCUCUAAAAAGUGGGUAACGCGAGAAAAACGCGUUACAGUCUAAACUCGAUGUACUCAAGCGGAACGACGCGUUUUGAGAACAAGAAUUACGUAGUCUCUAGAUGACACGAUUGUAUGUAUCUAAAUUCGGACACAUAUCUCAAUUGUGCCGUUAGGGAUGAUAAUUCCUAACCGAAGAGCAAGUCCCUAAAAGGGAAAUGGUAUCACCGGAGGGAAAUGUAUACAGUUAGAGAUUUAACGUACGUGACCUACUACAAUGAGCGUUAAUGUAGUAAUGUUACGGUACGAAAUCUUGAAUAGGAGUUGUUUACAAACAAUGAGGAAACCGGCAUCUACAACAGAGGUAUGCCAGAAGGUUAGUCCCAUUAUUUGUUUAACAAGUAAGAAUGGGGUAAAAUGUAGUAGGUCCUAAAAUUGCUUGAUACCGAAAGAGCCGCAGAAAUAAAUUUGGGCAGGUCGAUCAGGGUCAAAGAGGACGUAAAGUAGCGUAACUCAGAUGACUGAGAUAACAAAAGUGUAUGUAAGGACGAUCGCCGAUACAUCGACGAAAUCGACAGUUACACACAGAGUAAGGGGAUAAUAAUGACGAUGCAGUUCUAUGAACAGCAGCGUCGUAAUAGUCUUGAUACCAAGAGAUAAAGGAACAAGAAAUAUUGAAAAAUAAUCGGUAACAUGAUCAGUUACCACAUGUAAUAGGUUGACCUUCAACGGACUAUCGGAAGAAUCAAUAGGAGUAUUAUGAAACCAAACAUCUAUCUUAAGCAAAGACAGAGUACGACUUAAGGAUGUAAGGUGACAAACUGUACGCAAGAGUGAAAUAAGCACAAUCAUGUCAAAGAAGAGUACCAUACCAGGGACAGUAUGUGUGGUUUGGUAAUAAAUAAUCUUUGAAGCUAGUCGCAACGUCGACAAGAGCAACAAAAAUAAACGUGAGAAGAUGAAUAUAUCUCACGUGAAUAUAAUCGGCAAAAUCAUUCUAAUCGGAUCAAAGACAUUGACUGAAGAGGAAUUUGCCGUUACAAAGGUGACAAAAGCACGGACGUUGCGCGCUAAGUCAAGGAGAAGUGUAUUAGCGGGGCUCGAGCGAAUAGCAAAUUCGUCGAGACGCGAUGAUACCCAGGGCACAUCUCCGAUUAGGUAAUCAGAGAGAAACCUGUAUACCUUUUGCUUGAUACAAUGGGAAACAGGUUCUUGCUUAUCCCAACAAGUAUCAUUUGAAAAAGUAAAAAUGGCAUCAUACACGAUAUUGUGAGAACCACACAUACCGAAAGGAAUGCCGAUGAUCUAAUACACACGUUACAUACUGUCCGAAGUUAUGGGACAAUCAAGUCGGGCGUAAUAUGAACAUAUUAUGACCUGCAAGUCAGAUACAUUUUAAGGUCCUAUCAUUUGGGGGAGAUGGUGGACUGCUCACCCAAAUUGCUUGAGGAAGUAUUACAGAUUAUACUGCGUUGAGUGACUCCGCGUCUAAUAACGGUAAUAAUUUCUGACCUUGAAACGUACCAGGGACUAGAAAGAGAAUUAAUGAUAGCAUGAUGUCAUACCUAUGGGUAGGGCAUCAUACUGACAGAUACAGAAAUUUUACAAACAAAAUACCGAGGAUACCGGUAGAAGGUACCGCGAUAGUUAUAAAUCGCGGUAAAUAGGUUAACUAGAUCGAAGGGUCUAUUAGAGACCGUAACAUCGUCGACAAAGUCGAUACUACACCUAAAGGAUGAAACACGUCUCAUAGGCCGACAAAUACUCUUGACCUAGUACCACCAGUAAGUUAGGACUCUGAUUAACGGAAAACUUACAAGGUUAACCACCAUGUUGACAGCAUGCAGGUGAGCAUCUCCUGAGAUGGUCACAUUGACGACAACAUUGGUUACCAGUGGAGUUUUACCGACCGUACGUAAAGCCACGAACACUGAUGCUGUCUGAAGGAUUACUUCAGUGGCACCGGUUUGGGUUACACGACUAACGAAAUUUUUACCACUUCGCCGUUUCGAUGCCUUGAUUAAGGCCGCAACGGUAAAUGGUAUCUAUAUUCCGUCCAUUAAUGUCCUCAGGCGGAUAAUGCCGCCUAUAACUUGAACGUAACGAAGCUCGAAUCCGAGAAAUCAUUCUCAUAGAAUUAACUAAAAUUGCUUAGAGUUAAAGUAACAAUACCGUAGGGGACGACGUGGAGCACGACAAAGGAAACGGCUAUUGUUACUAUAUUGUUUAUGUUUGGACAGAGCUCCAUCUCCUGCAUUAGGUUUUGGUGCUCGACGUGGUUUAUUGUGACAGAGAACCAUGUGACCCGAAUGGGUUGUGCCCUUUCAGGGAGAAUGGAAAGGUGGACCCGUCCCACAUGGAGAAUUACGGUUAAGGUGGGGACGCGUUUUACGACCCAUAACCGCCUCUGUCCUGUCUUUUUAAUUAUGGCCCUUACCUUAAUUCGUUGACCGAGGGUCCACCAUGAAGAUGAUGUGACCUUGACCUGGGCUUCGUCGUGAGGGUAAGGCCCGACAAUUCCUACCGUAGCAAACCCAGGUACUUCUACCGCGGUGACUACGAGGAAGUUGAAAACCCUGCGCCUUGGGAUUGUUACUAAGUCGAUAACAAUGUGUUAAGCGCGGGCCAUGAUUCGAAGGAUUUUUGAAGGUGUAACUCCCCUGACCUCCGUUAUCAGUUAGUAGAAGUUCUCGGAGAUCGCAUUCGUCUUUGAGAAGGUCUAGAUCAAGUGUUCCAAGUUCUAGUCCUUUGAGAUGGGCGCCGUGAAGAGGUCCAGGUAGACCUUAGCCUCGUCAUCCUCCACUAGAUGAAAUGGAACUAGAAGACUUGUCUGAUGUUCGGGAACUCAGACCGUUUCAUUUCGUUAGCGUCGGUUUUCAUUAGUGAUUCUUUCUACGACGACGACGAUUUUUAUUCUACGCGGUGUUCGCGUGAAGGUGGUUUUCAAAGUUGUACCACGUUCGAAAACCAGAAGCGCCUGGUCCUCUGGAGGUCCCUUUGAAACCACUAGAAGUUAACUUAUUUGAGCCGUGACUCCUGGGUGCAACCGGGGUUUAACGACUCGAACGAGGAUGUCGGUCACGAAAAUACCCAUACAGCGUUAAAUUUGAAUGGGUAGUCUUGUUACUACUAGUACCGUUGGGACACAUGAAGGAAGCCAUGUCACCUCGGUAAUUUGAACUGGGUUUCUUAGGGUUGAUGUUAUUCACCAACCUCGAAGAACUCGUUUUAUAACUACGGAUGUUUUGGAAGGGAUUCUUCCUUUUCUUUGUUUUCCGUGGUUUUCUUCUUAGUUGUCUGGUUUACAGACUUGGAGGUUUCCUCGUCGCACACGUUCCAUCGUAGUGAGUCGCGUGAGCGUGGGCAGGUUCACAAGUCGGACCAGGUUACUAACUACAAUUGUGACUAAUCACAGUGAGUUUCAUUGUUCUAGCGCCGUUAGCAAACACAAACCAUUGGGGUAGAGUGGUAGCGAACAGGUGAGAACGUGUCUUACCUUAGUACAACAUUAAUGUCACGUUAUUCCAUUAAUAUUGGGUAAAUUAACUAUCGAUACGAAAUAAUUUCACACAUCGACAUCUCUCUUACAAUUUCUGACAGUGGAGACGCACUAACGUUCACUUGUCACGGGGGGCCCUUCUCGAGAUGUCACACUUUACAUUUAUUUUUAUCGAUAAUAAGUUAAUCUAAUCCGAUUAAUCUACUAAACGUUUUUUUUUUUUUU
+
+Amino Acids Statistics:
+
+Name:Thr;Count:837
+
+Name:Ser;Count:616
+
+Name:Val;Count:583
+
+Name:Ile;Count:534
+
+Name:Arg;Count:526
+
+Name:Leu;Count:503
+
+Name:Met;Count:346
+
+Name:Lys;Count:344
+
+Name:Asn;Count:318
+
+Name:Pro;Count:250
+
+Name:Gly;Count:246
+
+Name:Glu;Count:244
+
+Name:Asp;Count:221
+
+Name:Phe;Count:211
+
+Name:Tyr;Count:204
+
+Name:Gln;Count:202
+
+Name:His;Count:182
+
+Name:Cys;Count:177
+
+Name:Ala;Count:172
+
+Name:Trp;Count:79
