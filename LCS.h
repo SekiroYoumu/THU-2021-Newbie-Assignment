@@ -89,4 +89,5 @@ seq_len LCS(int id1, int id2,int t)
 	}
 	seq_len lcs_len = { lcs,sum };
 	return lcs_len;//以长度+序列的结构体形式返回
+	printf("测试");
 }
