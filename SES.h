@@ -8,8 +8,9 @@ int SES(int id1,int id2,int t)
 	int x, x1, x2, y;
 	int n_cut = 0, n_plug = 0, sum = 0;//n_cut切割总数 n_plug插入总数 sum操作总数
 	seq_len lcs_len;//定义“含长度的序列”结构体，同时从LCS函数接受长度和LCS序列，具体实现见LCS函数
+	if (t == 0) printf("\n------LCS正在计算中，请耐心等待……------\n");
 	lcs_len = LCS(id1, id2, 1);
-	if(t==0) printf("\n------SES正在计算中……------\n");
+	if (t == 0) printf("\n------SES正在计算中……------\n");
 	char* lcs = lcs_len.seq;
 	int l = lcs_len.l;
 	int* num = (int*)malloc(l * sizeof(int)); //构造num数组，填入LCS对应t1.seq的位置编号，形成一一对应，以确定后续插入操作的位置
