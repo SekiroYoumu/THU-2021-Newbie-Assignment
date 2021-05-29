@@ -17,7 +17,7 @@ seq_len LCS(int id1, int id2,int t)
 	p = (int**)malloc((n[0]+1) * sizeof(int*));//第一级指针的内存空间开辟
 	if (p == NULL) 	
 	{
-		printf("Error:Unsuccessful memory allocation for P[x] sequences!\n");
+		printf("Error:Unsuccessful memory allocation for P[x] sequences!\n可能是当前空余内存空间太小……\n");
 		return null_seq;
 	}
 	for (x = 0; x < (n[0] + 1); x++)
@@ -25,7 +25,7 @@ seq_len LCS(int id1, int id2,int t)
 		p[x]= (int*)malloc((n[1]+2) * sizeof(int));//第二级指针的内存空间开辟
 		if (p[x] == NULL)
 		{
-			printf("Error:Unsuccessful memory allocation for P[x][y] sequences!\n");
+			printf("Error:Unsuccessful memory allocation for P[x][y] sequences!\n可能是当前空余内存空间太小……\n");
 			return null_seq;
 		}
 		p[x][0] = 0;

@@ -168,7 +168,7 @@ Back_4:
 	else printf("                      > 您当前尚未选定基因。<\n");
 	printf("———————————————————————————————————————————————————\n");
 	printf("                      > ---输入1读取当前基因序列信息-------------------- <\n\n");
-	printf("                      > ---输入2(重新)选择基因序列信息-------------------- <\n\n");
+	printf("                      > ---输入2(重新)选择基因序列信息------------------ <\n\n");
 	printf("                      > ---输入3对当前序列进行限制酶位点检查------------ <\n\n");
 	printf("                      > ---输入4对当前序列进行翻译---------------------- <\n\n");
 	printf("                      > ---输入5对当前序列与另一指定序列进行LCS检查----- <\n\n");
@@ -192,6 +192,7 @@ Back_4:
 		system("pause");
 		goto Back_4;
 	}
+	if(move>=53&&move<=55) 	printf("提醒：LCS,SES与最大相似度计算用时较长，耗费内存空间较大！\n请保证当前设备拥有4G以上空闲内存空间。执行过程中请耐心等待。\n最大相似度计算约用时12*当前基因条目数量（秒）。\n\n");
 	switch (move)
 	{
 	case 49:
@@ -202,8 +203,8 @@ Back_4:
 	case 50:search_menu(1); system("pause"); goto Back_4; break; //重新选取基因
 	case 51:cut_check(current_id); system("pause"); goto Back_4; break;//限制酶检查
 	case 52:translate(current_id); system("pause"); goto Back_4; break;//转录-翻译
-	case 53:search_menu(2); LCS(current_id, compare_id, 0);  break;//LCS计算
-	case 54:search_menu(2); SES(current_id, compare_id, 0); system("pause"); break;//SES计算
+	case 53:printf("您需先选定要与之进行比较的基因。\n"); search_menu(2); LCS(current_id, compare_id, 0);  break;//LCS计算
+	case 54:printf("您需先选定要与之进行比较的基因。\n"); search_menu(2); SES(current_id, compare_id, 0); system("pause"); break;//SES计算
 	case 55:max_similarity(current_id); system("pause"); break;//最大相似度计算（以上功能具体见函数）
 	default:return; break;
 	}
