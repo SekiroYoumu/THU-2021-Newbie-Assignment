@@ -9,7 +9,7 @@
 
 #### 项目性质
 
-欢迎使用！本程序是一个基于C语言开发，通过命令行界面实现的精简版**RNA病毒**共享平台。
+欢迎使用！本程序是一个基于C语言开发，通过命令行界面实现的精简版**RNA病毒**数据库及共享平台。
 
 主要面向**新冠病毒（SARS-CoV-2）**的基因序列管理与各类操作，同时兼容其余大部分RNA病毒序列。
 
@@ -17,7 +17,9 @@ N.B. 程序仅经过小范围鲁棒性测试，可能存在巨量目前尚未发
 
 #### 开发信息
 
-开发者&管理员：清华大学 材02 陈方弈（学号：2020011392，微信：SekiroYoumu)
+开发者&管理员：清华大学 材02 陈方弈（学号：2020011392）
+
+微信：SekiroYoumu；邮箱：chenfang20@mails.tsinghua.edu.cn
 
 开发周期：5/21/2021—5/30/2021
 
@@ -61,11 +63,13 @@ Github Repo: [SekiroYoumu/THU-2021-Newbie-Assignment: 一次入门级的程设�
 
 所有输入”整型数“型的输入框均可通过输入**任意其他数字**返回上级菜单。
 
+具体参见输入前的提示。
+
 ### 2.1 程序操作流程（非管理员用户）
 
 一般用户的使用流程如下图所示。[^3][^4]
 
-![流程](README.assets/流程.jpg)
+![流程](README.assets/流程-1622281662663.jpg)
 
 [^3]:图例：蓝色线——用户调用的流程；黄色线——写入文件；橙色线——读取文件；红色方框——子菜单的整体。
 [^4]:采用Microsoft Visio 2019绘制。
@@ -262,7 +266,7 @@ Github Repo: [SekiroYoumu/THU-2021-Newbie-Assignment: 一次入门级的程设�
 
 非格式化文件读入即手动读入，您需将**只包含cDNA序列本体**的文件置于根目录（或其他路径，需在录入文件时输入**相对路径**）。其他信息将从键盘读入，根据系统提示输入即可。
 
-## 2.6 管理员命令
+### 2.6 管理员命令
 
 若“成功”提交了错误的基因信息或注册了错误账号，可联系管理员删除。管理员命令功能如下。
 
@@ -350,7 +354,7 @@ Github Repo: [SekiroYoumu/THU-2021-Newbie-Assignment: 一次入门级的程设�
 
   衷心感谢吉林大学SDDF(真名隐去)对Visual Studio 2019的特性提供介绍与讲解，使我少走了许多弯路。
 
-- 衷心感谢东北大学Val Thalas提供启动界面字符画的制作方法。
+- 衷心感谢东北大学Val Thalas(真名隐去)提供启动界面字符画的制作方法。
 
 - 衷心感谢程序编写完成后参与或即将参与小范围鲁棒性测试（~~帮我炸酒馆找bug~~）的以下同学(真名隐去)：
 
@@ -370,7 +374,7 @@ Github Repo: [SekiroYoumu/THU-2021-Newbie-Assignment: 一次入门级的程设�
 
 - 衷心感谢我的高中同学们，他们在我实在写不下去代码的时候勉励了我，让我有动力继续~~加班~~写下去。
 
-- 编写过程中参考的其他网络资料：
+- 除大作业要求文档给出的参考文献外，编写过程中参考的其他网络资料：
 
   [动态规划 最长公共子序列 过程图解_hrn1216的博客-CSDN博客](https://blog.csdn.net/hrn1216/article/details/51534607)
 
@@ -387,4 +391,6 @@ Github Repo: [SekiroYoumu/THU-2021-Newbie-Assignment: 一次入门级的程设�
   [scanf()正则表达式的使用 - 橙&子 - 博客园 (cnblogs.com)](https://www.cnblogs.com/orange1438/archive/2013/05/12/4544958.html)
 
   [National Center for Biotechnology Information (nih.gov)](https://www.ncbi.nlm.nih.gov/)
+  
+  [C 语言教程 | 菜鸟教程 (runoob.com)](https://www.runoob.com/cprogramming/c-tutorial.html)
 
