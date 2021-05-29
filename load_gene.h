@@ -38,9 +38,16 @@ int load_gene(const char *p, int method)
 	}
 	if (method == FORMATTED)
 	{
+		int flag=0;//以第一行为标准，验证格式化文件格式是否正确(只做大体验证）
 		fgets(buf, 299, fp);//这一行设计文件与文件夹创建，故不能有Windows系统不兼容的字符！！,会在说明文档中提出，否则会被自动替换成"_"
+		if (buf[0] != '>')
+		{
+			printf("基因文件格式不正确！请根据说明书中的格式进行调整后再行上传。注意：若该基因文件仅包含碱基序列，请选择“非格式化上传”。\n\n");
+			return -1;
+		}
 		for (i = 1; buf[i] != '\n'; i++)
 		{
+			if (buf[i] == ',') flag = 1; //若检测到逗号则说明格式大概率没问题
 			for (j = 0; not_allowed[j] != '\0'; j++)
 			{
 				if (buf[i] == not_allowed[j])
@@ -51,6 +58,11 @@ int load_gene(const char *p, int method)
 				}
 			}
 		}
+		if (flag==0)
+		{
+			printf("基因文件格式不正确！请根据说明书中的格式进行调整后再行上传。\n注意：若该基因文件仅包含碱基序列，请选择“非格式化上传”。\n");
+			return -1;
+		}//验证格式正确性
 		sscanf(buf, ">%[^,],%[^,],%[^\n]\n", load.ID, load.name, load.type); 
 		fscanf(fp, "SOURCE:%[^\n]\n", load.source);
 		fscanf(fp, "LOCALE:%[^\n]\n", load.locale);

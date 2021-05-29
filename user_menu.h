@@ -19,8 +19,8 @@ Back_1:			//从子菜单返回时重新显示主菜单
 	printf("                      > ---输入1显示当前在库序列列表--- <\n\n");
 	printf("                      > ---输入2进入序列查找与选择界面- <\n\n");
 	printf("                      > ---输入3进入序列读取与统计界面- <\n\n"); //部分功能访客禁用
-	printf("                      > ---输入4进入当前帐号管理界面--- <\n\n"); //访客禁用
-	printf("                      > ---输入5进入新基因序列提交界面- <\n\n"); //访客与未认证账户禁用
+	printf("                      > ---输入4进入新基因序列提交界面- <\n\n"); //访客与未认证账户禁用
+	printf("                      > ---输入5进入当前帐号管理界面--- <\n\n"); //访客禁用
 	printf("                      > ---输入6进入管理员操作界面----- <\n\n"); //仅管理员可用
 	printf("                      > ---输入其他字符退出本程序------ <\n");
 	printf("———————————————————————————————————————————————————\n");
@@ -38,15 +38,6 @@ Back_1:			//从子菜单返回时重新显示主菜单
 	case 50:search_menu(1); system("pause"); rewind(stdin); goto Back_1;break;
 	case 51:gene_lookup_menu(); system("pause"); rewind(stdin); goto Back_1; break;
 	case 52:
-		if (current_user.privilege == -1) 
-		{
-			printf("错误：您当前为访客模式，请注册后使用。\n\n");
-			system("pause");
-			rewind(stdin);
-			goto Back_1;
-		}
-		account_menu(); system("pause"); rewind(stdin); goto Back_1; break;
-	case 53:
 		if (current_user.privilege < 1)
 		{
 			printf("错误：您当前的账户没有提交基因的权限。详情请联系管理员。\n\n");
@@ -61,6 +52,15 @@ Back_1:			//从子菜单返回时重新显示主菜单
 			rewind(stdin);
 			goto Back_1;
 		}
+	case 53:
+		if (current_user.privilege == -1)
+		{
+			printf("错误：您当前为访客模式，请注册后使用。\n\n");
+			system("pause");
+			rewind(stdin);
+			goto Back_1;
+		}
+		account_menu(); system("pause"); rewind(stdin); goto Back_1; break;
 		break;
 	case 54:
 		if (current_user.privilege < 2)
