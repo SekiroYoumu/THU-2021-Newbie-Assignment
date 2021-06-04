@@ -1,6 +1,6 @@
 #pragma once
 #include "Initialization.h"
-
+void print_userlist();
 int login()//登录函数，成功返回1，失败返回0。
 {
 	int i,n;
@@ -70,7 +70,7 @@ int registration()//注册函数，成功返回1，失败返回0。
 	}
 	if (strcmp(tmp_name, "exit") == 0) return 0;
 	Redo:
-	printf("请输入不超过16位的密码（包含字母，符号，数字等，不包含空格！）：");
+	printf("请输入不超过16位的密码（包含字母，符号，数字等，不包含空格，注意密码中不能含有空格del,beep等控制符！）：");
 	scanf("%s", tmp_pw); rewind(stdin);
 	if (strcmp(tmp_pw, "exit") == 0) return 0;
 	if (strlen(tmp_pw) > 16)
@@ -106,14 +106,16 @@ int registration()//注册函数，成功返回1，失败返回0。
 	strcpy(userlist[sum_user].password, tmp_pwre);
 	userlist[sum_user].privilege= auth;
 	FILE* fp;
-	fp = fopen("UserInformation.dat", "r+");
+	fp = fopen("UserInformation.dat", "r+b");
 	if (fp == NULL)
 	{
 		perror("Error:");
 		return -1;
 	}
 	fseek(fp, 0L, 2);
+	encrypt(userlist[sum_user].password);
 	fwrite(&userlist[sum_user], sizeof(user), 1, fp);//将新用户信息输入用户花名册文件
+	decrypt(userlist[sum_user].password);
 	rewind(fp);
 	fwrite(&sum_user, sizeof(int), 1, fp);//更新位于文件开头的用户数量
 	fclose(fp);
@@ -129,22 +131,35 @@ void password_change() //修改密码
 	if (current_user.privilege <= 1) id = current_user.user_id;//一般用户只能修改本账号密码
 	else if (current_user.privilege == 2)//管理员允许修改所有账户的密码
 	{
+		print_userlist();
 		printf("欢迎你，管理员！\n请输入需要修改密码的账户编号：");
 		scanf("%d", &id);
+		rewind(stdin);
 		if (id < 0 || id > sum_user) return;
 	}
-	else printf("Wrong Data Detected\n"); return;
+	else { 
+		printf("Wrong Data Detected\n"); 
+		return; 
+	}
 	Redo:
-	printf("(要返回上级菜单，请直接键入exit)\n请输入不超过16位的新密码：");
-	scanf("%s", tmp_pw); fflush(stdin);
+	printf("(要返回上级菜单，请直接键入exit)\n请输入不超过16位的新密码，注意密码中不能含有空格del,beep等控制符：");
+	scanf("%s", tmp_pw); rewind(stdin);
 	if (strcmp(tmp_pw, "exit") == 0) return;
 	if (strlen(tmp_pw) > 16)
 	{
 		printf("密码超出长度！请重新输入。\n");
 		goto Redo;
 	}
+	for (i = 0; i < strlen(tmp_pw); i++)
+	{
+		if (tmp_pw[i] == 127 || tmp_pw[i] == 10 || tmp_pw[i] == 13 || tmp_pw[i] == 7 || tmp_pw[i] == 32)
+		{
+			printf("密码中含有非法字符，请重新输入！\n");
+			goto Redo;
+		}
+	}
 	printf("请再次输入新密码：");//新密码确认
-	scanf("%s", tmp_pwre); fflush(stdin);
+	scanf("%s", tmp_pwre); rewind(stdin);
 	if (strcmp(tmp_pwre, "exit") == 0) return;
 	if (strcmp(tmp_pwre, tmp_pw) != 0)
 	{
@@ -153,7 +168,7 @@ void password_change() //修改密码
 	}
 	/*更改密码后，重新录入用户信息(采用全部覆盖的方式进行)*/
 	strcpy(userlist[id].password, tmp_pwre);
-	FILE* fp = fopen("UserInformation.dat", "w");
+	FILE* fp = fopen("UserInformation.dat", "wb");
 	if (fp == NULL)
 	{
 		perror("Error:");
@@ -162,7 +177,9 @@ void password_change() //修改密码
 	fwrite(&sum_user, sizeof(int), 1, fp);
 	for (i = 0; i <= sum_user; i++)
 	{
+		encrypt(userlist[i].password);
 		fwrite(&userlist[i], sizeof(user), 1, fp);
+		decrypt(userlist[i].password);
 	}
 	fclose(fp);
 	printf("密码修改成功！注意，您可能需要重新启动系统以使更改生效。\n");
@@ -181,6 +198,7 @@ void auth_change() //修改账户权限
 	}
 	if (current_user.privilege == 2)//若为管理员调用该函数，则允许修改所有账户的权限
 	{
+		print_userlist();
 		printf("欢迎你，管理员！\n请输入需要修改权限的账户编号(输入越界数字返回)：");
 		scanf("%d", &id); rewind(stdin);
 		if (id < 0 || id > sum_user) return;
@@ -218,7 +236,7 @@ void auth_change() //修改账户权限
 	}
 	if(flag==1)
 	{
-		FILE* fp = fopen("UserInformation.dat", "w");//若确实发生修改，则写入文件（采用全部重新写入的方式）
+		FILE* fp = fopen("UserInformation.dat", "wb");//若确实发生修改，则写入文件（采用全部重新写入的方式）
 		if (fp == NULL)
 		{
 			perror("Error:");
@@ -227,7 +245,9 @@ void auth_change() //修改账户权限
 		fwrite(&sum_user, sizeof(int), 1, fp);
 		for (i = 0; i <= sum_user; i++)
 		{
+			encrypt(userlist[i].password);
 			fwrite(&userlist[i], sizeof(user), 1, fp);
+			decrypt(userlist[i].password);
 		}
 		fclose(fp);
 		printf("权限修改成功！注意，您可能需要重新启动系统以使更改生效。\n");
@@ -272,7 +292,7 @@ void user_delete()//删除某一账户
 	}//删除用户的信息
 	sum_user--;
 	userlist = (user*)realloc(userlist, sizeof(user) * (sum_user + 1));//为删除后的用户列表重新分配内存
-	FILE* fp = fopen("UserInformation.dat", "w");//将更改写入花名册文件
+	FILE* fp = fopen("UserInformation.dat", "wb");//将更改写入花名册文件
 	if (fp == NULL)
 	{
 		perror("Error:");
@@ -282,7 +302,9 @@ void user_delete()//删除某一账户
 	for (i = 0; i <= sum_user; i++)
 	{
 		if (i >= id) userlist[i].user_id--;
+		encrypt(userlist[i].password);
 		fwrite(&userlist[i], sizeof(user), 1, fp);
+		decrypt(userlist[i].password);
 	}
 	fclose(fp);
 	printf("成功删除！\n");

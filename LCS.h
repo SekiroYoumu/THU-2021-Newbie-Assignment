@@ -11,7 +11,7 @@ seq_len LCS(int id1, int id2,int t)
 	int** p = NULL;
 	char* lcs = NULL;
 	bool flag=0;
-	/*Part.1 LCS的动态规划算法需要开辟一个(n[1]+1)*(n[2]+1)大小的空间*/
+	/*Part.1 LCS的动态规划算法需要开辟一个(n[0]+1)*(n[1]+1)大小的空间*/
 	/*P.S.:实测在长度如此之长的情况下会占用大量内存（3.5G）左右，并需要一定的计算时间*/
 	/*为尽可能减少内存使用，计划采用二级指针+动态数组的方式开辟这种空间*/
 	p = (int**)malloc((n[0]+1) * sizeof(int*));//第一级指针的内存空间开辟
@@ -22,7 +22,7 @@ seq_len LCS(int id1, int id2,int t)
 	}
 	for (x = 0; x < (n[0] + 1); x++)
 	{
-		p[x]= (int*)malloc((n[1]+2) * sizeof(int));//第二级指针的内存空间开辟
+		p[x]= (int*)malloc((n[1]+1) * sizeof(int));//第二级指针的内存空间开辟
 		if (p[x] == NULL)
 		{
 			printf("Error:Unsuccessful memory allocation for P[x][y] sequences!\n可能是当前空余内存空间太小……\n");

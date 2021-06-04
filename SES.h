@@ -20,6 +20,8 @@ int SES(int id1,int id2,int t)
 	{
 		sprintf(filename, "genebase\\%s\\SES-%s & %s.txt", t1.ID, t1.name, t2.name);
 		fp = fopen(filename, "w");
+		fseek(fp, 50L, 0);
+		fprintf(fp, "\n");
 	}
 	
 	for (y = 0, x = 0, x1 = 0; x1 < t1.l;) //完成t1.seq-lcs的过程，并即时输出操作
@@ -53,7 +55,7 @@ int SES(int id1,int id2,int t)
 	if(fp!=NULL) rewind(fp);
 	if (t == 0)
 	{
-		fprintf(fp, "最短操作次数：%d；\n", sum);
+		fprintf(fp, "最短操作次数：%d；", sum);
 		printf("成功：最少操作次数检测完毕！结果已被保存在%s中，请查看。\n\n", filename);
 		fclose(fp);
 	}

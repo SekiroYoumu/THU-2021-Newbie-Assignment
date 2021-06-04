@@ -17,7 +17,7 @@ typedef int bool;
 #include "search_from_roster.h"
 #include "user_menu.h"
 int main()
-{   
+{
     system("mode con cols=128 lines=45"); //初始化界面大小为长128，宽45
     initialize(); //程序初始化
     main_menu();  //加载菜单

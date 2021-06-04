@@ -131,11 +131,11 @@ int load_gene(const char *p, int method)
 	load.id = sum_roster;
 	roster = (index*)realloc(roster,sizeof(index)*(sum_roster + 1) );
 	indexualize(&load,&roster[load.id]);
-	fp = fopen("GeneRoster.dat", "r+");
-	fseek(fp, 0L, 2);
-	fwrite(&roster[load.id],sizeof(index),1,fp);//在末尾写新基因信息
+	fp = fopen("GeneRoster.dat", "r+b");
 	rewind(fp);
 	fwrite(&sum_roster, sizeof(int), 1, fp);//在开头写新基因数量
+	fseek(fp, 0L, 2);
+	fwrite(&roster[load.id], sizeof(index), 1, fp);//在末尾写新基因信息
 	fclose(fp);
 	/*固定格式的DNA源文件入库*/
 	sprintf(filename, "genebase\\%s\\Information-%s.txt", load.ID, load.name); 
@@ -152,7 +152,7 @@ int load_gene(const char *p, int method)
 	fclose(fp);
 	/*可供直接结构体读取的DNA源文件入库，采用结构体写入的形式*/
 	sprintf(filename, "genebase\\%s\\SOURCEDATA", load.ID);
-	fp = fopen(filename, "w");
+	fp = fopen(filename, "wb");
 	fwrite(&load, sizeof(gene), 1, fp);
 	fclose(fp);
 	return load.id;
@@ -180,7 +180,7 @@ void gene_delete() //管理员命令:删除基因条目
 	}//删除该基因的索引信息（采用覆盖的形式）
 	sum_roster--;
 	roster = (index*)realloc(roster, sizeof(index) * (sum_user + 1));//重新分配基因索引的内存空间
-	FILE* fp = fopen("GeneRoster.dat", "w");//重新写入花名册文件
+	FILE* fp = fopen("GeneRoster.dat", "wb");//重新写入花名册文件
 	if (fp == NULL)
 	{
 		perror("Error:");

@@ -16,7 +16,7 @@ gene load_from_base(int id, int t)
 	if (id <= 0 || id > sum_roster)//合法性检查
 	{
 		printf("输入越界！请检查输入是否正确。\n");
-		return;
+		return null_gene;
 	}
 	p = roster[id].ID;
 	FILE* fp;

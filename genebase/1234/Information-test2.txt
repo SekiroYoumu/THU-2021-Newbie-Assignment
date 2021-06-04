@@ -5,7 +5,7 @@ INSTITUTION:12345678
 SequencingTechnology:12345678
 REMARK:
 1234
-SubmitTime:5/27/2021,id=6
+SubmitTime:6/2/2021,id=9
 Stats:A=9,T=7,G=8,C=7
 Length:31
 

@@ -1,15 +1,36 @@
 #pragma once
+void encrypt(char* pw)
+{
+	for (; *pw != '\0'; pw++)
+	{
+		if (*pw < 127) *pw = *pw + 1;
+		else
+		{
+			printf("密码中含有非法字符！");
+			return;
+		}
+	}
+}//用ASCII码+1（除del）的方法完成密码的加密（写入时）
+void decrypt(char* pw)
+{
+	for (; *pw != '\0'; pw++)
+	{
+		*pw = *pw - 1;
+	}
+	return;
+}//用ASCII码+1（除del）的方法完成密码的解密（读取时）
 void initialize()//初始化函数
 {
 	int i;
+	system("color 0F");
 	file_print("loading_screen.dat");//初始化界面，从文件中打印即可
 	FILE* fp;
 	printf("\n警告：该程序尚在施工中，请全程佩戴安全帽游览哦:)\n");
 	/*Part 1.读取基因序列索引花名册*/
-	fp = fopen("GeneRoster.dat", "r+");
+	fp = fopen("GeneRoster.dat", "r+b");
 	if (fp == NULL)
 	{
-		fp = fopen("GeneRoster.dat", "w");
+		fp = fopen("GeneRoster.dat", "wb");
 		fwrite(&sum_roster, sizeof(int), 1, fp);
 		rewind(fp);
 	}//若无基因索引则重新创建
@@ -19,17 +40,20 @@ void initialize()//初始化函数
 	for (i = 1; i <= sum_roster; i++)
 	{
 		fread(&roster[i], sizeof(index), 1, fp);//逐个读取基因序列索引
+		roster[i].id = i;
 	}
 	printf("———————————————————————————————————————————————————\n");
 	printf("****在库序列索引加载完毕……****\n****当前在库序列：%d条***********",sum_roster); 
 	fclose(fp);
 	/*Part 2.读取用户列表*/
-	fp = fopen("UserInformation.dat", "r+");
+	fp = fopen("UserInformation.dat", "r+b");
 	if (fp == NULL)
 	{
-		fp = fopen("UserInformation.dat", "w");
+		fp = fopen("UserInformation.dat", "wb");
 		fwrite(&sum_user, sizeof(int), 1, fp);
+		encrypt(admin.password);
 		fwrite(&admin, sizeof(user), 1, fp);//初次加载时输入管理员账户
+		decrypt(admin.password);
 		rewind(fp);
 	}//若无用户列表则重新创建
 	fread(&sum_user, sizeof(int), 1, fp);//用户列表总数被置于文件首
@@ -37,6 +61,8 @@ void initialize()//初始化函数
 	for (i = 0; i <= sum_user; i++)
 	{
 		fread(&userlist[i], sizeof(user), 1, fp);//读取用户列表
+		userlist[i].user_id = i;
+		decrypt(userlist[i].password);
 	}
 	printf("\n****在库用户列表加载完毕……****\n****当前已注册用户：%d名********",sum_user); //加载现有用户列表
 	printf("\n>-初始化完成！快进来，找个位置随便坐。-<\n");
